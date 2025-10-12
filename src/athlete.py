@@ -79,7 +79,7 @@ class Athlete:
     
     @property
     def required_races(self):
-        if self.best_5k.total_score < self.best_marathon.total_score:
+        if self.best_5k.total_score > self.best_marathon.total_score:
             return self.best_5k, self.best_marathon
         else:
             return self.best_marathon, self.best_5k 
