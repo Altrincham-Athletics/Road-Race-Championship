@@ -1,0 +1,534 @@
+﻿Sale Sizzler 2
+Position,Finish time,Number,First name,Last name,Chip time,Chip position,Club,Club Position,Gender,Gender position,Category,Category position
+1,00:14:46,1517,Harry,Johnson,00:14:46,1,Halifax Harriers & AC,1,Male,1,Senior Male (20-34),1
+2,00:14:50,1828,Daniel,Cliffe,00:14:50,2,Hercules Wimbledon AC,1,Male,2,Senior Male (20-34),2
+3,00:15:05,1629,Martin,Clark,00:15:05,3,Bury Athletic Club,1,Male,3,Senior Male (20-34),3
+4,00:15:08,1197,Callum,Rowlinson,00:15:08,4,Salford Harriers & AC,1,Male,4,Senior Male (20-34),4
+5,00:15:21,1794,Sam,Whitehead,00:15:21,5,Vale Royal AC,1,Male,5,Senior Male (20-34),5
+6,00:15:29,1096,Ryan,Worland,00:15:29,6,Salford Harriers & AC,2,Male,6,Senior Male (20-34),6
+7,00:15:31,1354,Matthew,Cooper,00:15:31,7,Salford Harriers & AC,3,Male,7,Senior Male (20-34),7
+8,00:15:36,1530,Matt,McCormack,00:15:35,8,Vale Royal AC,2,Male,8,Senior Male (20-34),8
+9,00:15:38,1362,Gabriel,Smith,00:15:38,9,Salford Harriers & AC,4,Male,9,Senior Male (20-34),9
+10,00:15:41,1048,Aaron,Doyle,00:15:41,10,Vale Royal AC,3,Male,10,Senior Male (20-34),10
+11,00:15:49,1226,Sam,Perkins,00:15:48,11,Didsbury Runners,1,Male,11,Senior Male (20-34),11
+12,00:15:51,1466,Harry,Hind,00:15:50,12,Stockport Harriers & AC,1,Male,12,Senior Male (20-34),12
+13,00:15:55,1355,Elliot,Clayton,00:15:54,13,,13,Male,13,Senior Male (20-34),13
+14,00:15:59,1529,Callum,Jones,00:15:59,14,Salford Harriers & AC,5,Male,14,Senior Male (20-34),14
+15,00:16:01,1275,Michael,Berks,00:16:00,15,Altrincham & District Athletic Club Limited,1,Male,15,Vet 40,1
+16,00:16:07,1406,Jack Matthew,Catterall,00:16:07,16,Stockport Harriers & AC,2,Male,16,Under 20,1
+17,00:16:08,1365,Sam,Pendrill,00:16:08,18,Sale Harriers Manchester,1,Male,17,Senior Male (20-34),15
+18,00:16:09,1604,Ben,Hobson,00:16:08,19,Chorlton Runners,1,Male,18,Vet 35,1
+19,00:16:09,1523,Daniel,Gorrod,00:16:08,17,Leigh Harriers & AC,1,Male,19,Senior Male (20-34),16
+20,00:16:10,1171,Cian,Taylor,00:16:09,20,Macclesfield Harriers & AC,1,Male,20,Under 20,2
+21,00:16:13,1468,Jonathan,Manning,00:16:11,21,,21,Male,21,Vet 35,2
+22,00:16:15,1657,Joe,Wharton,00:16:11,22,,22,Male,22,Senior Male (20-34),17
+23,00:16:15,1526,Marcus,Nicholson,00:16:13,23,Sale Harriers Manchester,2,Male,23,Senior Male (20-34),18
+24,00:16:16,1771,Matthew,Lockyer,00:16:15,24,Leeds City Athletic Club,1,Male,24,Vet 40,2
+25,00:16:17,1175,Aiden,Briffett,00:16:16,25,Wigan & District H & AC,1,Male,25,Senior Male (20-34),19
+26,00:16:22,1479,James,Savage,00:16:21,26,Chorlton Runners,2,Male,26,Vet 40,3
+27,00:16:24,1306,Joshua,Hourihan,00:16:23,27,Stockport Harriers & AC,3,Male,27,Senior Male (20-34),20
+28,00:16:26,1351,Mark,Gittins,00:16:26,28,Helsby Running Club,1,Male,28,Vet 45,1
+29,00:16:28,1552,Joshua,Ingham,00:16:27,29,,29,Male,29,Senior Male (20-34),21
+30,00:16:28,1544,Sarah,Dufour-Jackson,00:16:28,31,Vale Royal AC,4,Female,1,Senior Female (20-34),1
+31,00:16:28,1086,Jonathan,Pickup,00:16:28,30,Didsbury Runners,2,Male,30,Senior Male (20-34),22
+32,00:16:29,1162,Nicholas,Tynan,00:16:28,32,Sale Harriers Manchester,3,Male,31,Vet 35,3
+33,00:16:33,1539,Oliver,Williams,00:16:31,33,Vale Royal AC,5,Male,32,Senior Male (20-34),23
+34,00:16:33,1548,Sarah,Potter,00:16:31,35,Leeds City Athletic Club,2,Female,2,Senior Female (20-34),2
+35,00:16:35,1007,Patrick,Flanagan,00:16:31,34,,33,Male,33,Senior Male (20-34),24
+36,00:16:37,1160,Harley,Henshaw,00:16:35,36,Stockport Harriers & AC,4,Male,34,Senior Male (20-34),25
+37,00:16:38,1787,Paul,Bannister,00:16:36,38,Salford Harriers & AC,6,Male,35,Vet 35,4
+38,00:16:39,1770,Peter,Speake,00:16:38,39,Wilmslow Running Club,1,Male,36,Vet 45,2
+39,00:16:39,1789,Ben,Greene,00:16:36,37,Macclesfield Harriers & AC,2,Male,37,Senior Male (20-34),26
+40,00:16:43,1320,Andrew,Haney,00:16:41,40,Chorlton Runners,3,Male,38,Vet 50,1
+41,00:16:44,1626,Matthew,Devlin,00:16:42,41,Chorlton Runners,4,Male,39,Vet 40,4
+42,00:16:45,1445,Jack,Burbidge,00:16:44,43,Altrincham & District Athletic Club Limited,2,Male,40,Vet 35,5
+43,00:16:47,1417,Neil,Dixon,00:16:45,45,Newcastle Staffs AC,1,Male,41,Vet 45,3
+44,00:16:50,1128,Pierce,Lyons,00:16:43,42,Manchester Frontrunners,1,Male,42,Vet 35,6
+45,00:16:50,1538,Pete,Fenn,00:16:45,44,,43,Male,43,Vet 45,4
+46,00:16:51,1277,Christian,Smith,00:16:47,47,Salford Harriers & AC,7,Male,44,Senior Male (20-34),27
+47,00:16:52,1825,Theodore,Stevens,00:16:50,48,,45,Male,45,Under 20,3
+48,00:16:52,1157,David,Parkin,00:16:51,49,,46,Male,46,Vet 35,7
+49,00:16:53,1511,Andrew,Bromley,00:16:52,51,Helsby Running Club,2,Male,47,Senior Male (20-34),28
+50,00:16:53,1816,Luke,Moulton,00:16:45,46,Altrincham & District Athletic Club Limited,3,Male,48,Vet 35,8
+51,00:16:54,1773,Andrew,Walmsley,00:16:52,50,Chorlton Runners,5,Male,49,Vet 40,5
+52,00:16:56,1595,Bryn,Lawrence,00:16:56,54,Bury Athletic Club,2,Male,50,Under 20,4
+53,00:16:57,1546,Nathan,Woods,00:16:54,52,Helsby Running Club,3,Male,51,Vet 40,6
+54,00:16:57,1518,Matthew,Ben-Accom,00:16:55,53,,52,Male,52,Senior Male (20-34),29
+55,00:16:59,1363,Kirsty,Longley,00:16:59,56,Liverpool Pembroke & Sefton H AC,1,Female,3,Vet 45,1
+56,00:17:00,1228,Daniel,Bennett,00:16:58,55,Rochdale Harriers & AC,1,Male,53,Vet 55,1
+57,00:17:05,1638,Damien,McHugh,00:17:00,57,Didsbury Runners,3,Male,54,Vet 35,9
+58,00:17:08,1509,Nathan,Dunn,00:17:07,60,East Cheshire Harriers & Tameside AC,1,Male,55,Under 20,5
+59,00:17:09,1655,Sean,Connon,00:17:04,58,Chorlton Runners,6,Male,56,Vet 35,10
+60,00:17:13,1528,Joe,Webster,00:17:05,59,,57,Male,57,Senior Male (20-34),30
+61,00:17:14,1827,Rhys,Lloyd,00:17:12,64,,58,Male,58,Senior Male (20-34),31
+62,00:17:14,1257,Adam,Tyson,00:17:12,63,Newcastle Staffs AC,2,Male,59,Vet 40,7
+63,00:17:15,1603,Evan,Horwell,00:17:15,69,Trafford Athletic Club,1,Male,60,Under 20,6
+64,00:17:16,1407,Dan,Atkinson,00:17:10,62,Chorlton Runners,7,Male,61,Vet 40,8
+65,00:17:16,1617,Will,Kozer,00:17:14,66,Widnes Running Club,1,Male,62,Vet 40,9
+66,00:17:17,1326,Tim,Greenald,00:17:13,65,Altrincham & District Athletic Club Limited,4,Male,63,Vet 50,2
+67,00:17:17,1570,Ben,Farrelly,00:17:14,66,Salford Metropolitan AC,1,Male,64,Vet 40,10
+68,00:17:17,1555,Seb,Baker,00:17:10,61,,65,Male,65,Senior Male (20-34),32
+69,00:17:19,1516,James,Garner,00:17:16,70,Stockport Tri Club,1,Male,66,Vet 45,5
+70,00:17:20,1158,Al,Robertson,00:17:14,68,Vegan Runners UK,1,Male,67,Vet 45,6
+71,00:17:23,1178,Stuart,Berry,00:17:19,71,Lymm Runners,1,Male,68,Vet 35,11
+72,00:17:24,1024,Shaun,Ashworth,00:17:20,73,Velorunner,1,Male,69,Vet 40,11
+73,00:17:25,1610,Joseph,Wilson,00:17:22,75,Salford Harriers & AC,8,Male,70,Senior Male (20-34),33
+74,00:17:27,1543,Stuart,Doyle,00:17:25,77,Vale Royal AC,6,Male,71,Vet 50,3
+75,00:17:28,1495,Gavin,Simpson,00:17:21,74,Chorlton Runners,8,Male,72,Vet 40,12
+76,00:17:28,1545,Sam,Mabbott,00:17:23,76,East Cheshire Harriers & Tameside AC,2,Male,73,Vet 40,13
+77,00:17:28,1562,Jordan,Dover,00:17:20,72,Didsbury Runners,4,Male,74,Senior Male (20-34),34
+78,00:17:29,1302,Harry,Yates,00:17:26,81,Horwich R M I Harriers,1,Male,75,Under 20,7
+79,00:17:31,1135,Colin,Latham,00:17:29,84,Dragons Running Club (Sale),1,Male,76,Vet 40,14
+80,00:17:31,1757,Daniel,Vasey,00:17:26,79,Chorlton Runners,9,Male,77,Vet 35,12
+81,00:17:32,1837,Carl,Krystek,00:17:30,85,Stockport Tri Club,2,Male,78,Vet 45,7
+82,00:17:32,1360,William,Wall,00:17:27,82,Royton Road Runners,1,Male,79,Vet 45,8
+83,00:17:32,1558,Chris,Bramwell,00:17:28,83,Stockport Harriers & AC,5,Male,80,Vet 40,15
+84,00:17:33,1840,Dan,Bentley,00:17:26,78,Chorlton Runners,10,Male,81,Senior Male (20-34),35
+85,00:17:35,1507,Justin,Johnson,00:17:31,86,Hyde Village Striders,1,Male,82,Vet 40,16
+86,00:17:35,1609,Mohamed,Redaoui,00:17:26,80,,83,Male,83,Senior Male (20-34),36
+87,00:17:37,1371,Mathew,Reeves,00:17:31,87,Royton Road Runners,2,Male,84,Vet 35,13
+88,00:17:37,1125,Tom,Moseley,00:17:33,88,Altrincham & District Athletic Club Limited,5,Male,85,Vet 40,17
+89,00:17:39,1058,Katherine,Fitzpatrick,00:17:35,89,Chorlton Runners,11,Female,4,Vet 35,1
+90,00:17:44,1356,Ali,Coutts,00:17:41,91,Club coaction,1,Male,86,Senior Male (20-34),37
+91,00:17:44,1065,Phil,Rowen,00:17:41,92,Lymm Runners,2,Male,87,Vet 50,4
+92,00:17:45,1788,Michael,Heaney,00:17:40,90,Salford Harriers & AC,9,Male,88,Vet 40,18
+93,00:17:51,1296,David,Burgess,00:17:47,97,,89,Male,89,Vet 35,14
+94,00:17:51,1122,Kei,Mak,00:17:44,93,Chorlton Runners,12,Male,90,Vet 35,15
+95,00:17:52,1751,Tony,Davenport,00:17:46,95,Sale Harriers Manchester,4,Male,91,Vet 45,9
+96,00:17:53,1151,Philip,Tomkinson,00:17:51,101,Manchester YMCA Harriers,1,Male,92,Vet 35,16
+97,00:17:53,1258,Andy,Walker,00:17:46,96,Newcastle Staffs AC,3,Male,93,Vet 55,2
+98,00:17:55,1541,Constance,Jenneson,00:17:51,99,Buxton AC,1,Female,5,Under 20,1
+99,00:17:55,1767,Robert,Livesey,00:17:45,94,,94,Male,94,Senior Male (20-34),38
+100,00:17:55,1456,Lucas,Jones,00:17:51,100,Goyt Valley Striders,1,Male,95,Vet 50,5
+101,00:17:56,1378,Steve,Crossman,00:17:51,98,Glossopdale Harriers,1,Male,96,Vet 55,3
+102,00:17:58,1357,Anna,Hollingworth,00:17:53,104,Newcastle (Staffs) Tri Club,1,Female,6,Vet 40,1
+103,00:17:58,1146,Andrew,Firth,00:17:53,102,Clapham Chasers,1,Male,97,Senior Male (20-34),39
+104,00:18:00,1636,Rachel,McQuillan,00:17:53,103,Warrington A C,1,Female,7,Senior Female (20-34),3
+105,00:18:01,1621,Adam,Battersby,00:17:57,106,Mossley Running Club,1,Male,98,Vet 40,19
+106,00:18:02,1798,Iestyn,Jones-Evans,00:17:55,105,Manchester Triathlon Club (sort of. Member but haven't been in a while),1,Male,99,Senior Male (20-34),40
+107,00:18:03,1747,Leif,Payne,00:17:59,108,City Of Stoke Ac,1,Male,100,Senior Male (20-34),41
+108,00:18:05,1068,Daniel,Hill,00:17:58,107,Chorlton Runners,13,Male,101,Vet 50,6
+109,00:18:07,1025,Matthew,Martin,00:18:01,110,,102,Male,102,Vet 35,17
+110,00:18:07,1593,Ian,Elsby,00:18:01,111,Knutsford Tri Club,1,Male,103,Vet 45,10
+111,00:18:09,1806,Paul,Noble,00:18:05,116,Sale Harriers Manchester,5,Male,104,Vet 50,7
+112,00:18:09,1768,Jack,Murphy,00:18:00,109,,105,Male,105,Senior Male (20-34),42
+113,00:18:11,1764,Rachel,Brown,00:18:05,117,Chorlton Runners,14,Female,8,Senior Female (20-34),4
+114,00:18:11,1424,Paul,Banham,00:18:05,114,Glossopdale Harriers,2,Male,106,Vet 40,20
+115,00:18:12,1612,Amy,Weyers,00:18:08,119,Chorlton Runners,15,Female,9,Vet 40,2
+116,00:18:13,1095,Dan,Scotson,00:18:07,118,Didsbury Runners,5,Male,107,Senior Male (20-34),43
+117,00:18:13,1637,David,Aspinall,00:18:08,121,Wigan & District H & AC,2,Male,108,Vet 35,18
+118,00:18:14,1524,Andrew,Bowler,00:18:05,115,Manchester YMCA Harriers,2,Male,109,Vet 35,19
+119,00:18:16,1168,Michael,Harrington,00:18:04,113,Cheshire Dragons,1,Male,110,Vet 50,8
+120,00:18:17,1779,Dan,Harris,00:18:08,120,,111,Male,111,Vet 45,11
+121,00:18:17,1037,Matt,Spragg,00:18:13,125,Sale Harriers Manchester,6,Male,112,Vet 50,9
+122,00:18:17,1553,Ahmed,Eldars,00:18:11,123,Manchester Harriers & AC,1,Male,113,Senior Male (20-34),44
+123,00:18:17,1628,Richard,Holland,00:18:11,124,,114,Male,114,Senior Male (20-34),45
+124,00:18:18,1601,Becky,Hansen,00:18:10,122,Altrincham & District Athletic Club Limited,6,Female,10,Vet 35,2
+125,00:18:20,1839,Nathan,Sime,00:18:03,112,Manchester Road Runners,1,Male,115,Senior Male (20-34),46
+126,00:18:23,1613,Max,Castiglione,00:18:14,126,,116,Male,116,Senior Male (20-34),47
+127,00:18:25,1597,Ben,Sunley,00:18:21,135,Prestwich AC,1,Male,117,Senior Male (20-34),48
+128,00:18:25,1591,Lewis,Bigham,00:18:20,131,Glossopdale Harriers,3,Male,118,Senior Male (20-34),49
+129,00:18:25,1784,Abdul,Shahid,00:18:20,130,Rochdale Harriers & AC,2,Male,119,Senior Male (20-34),50
+130,00:18:26,1769,Jonathan,Hock,00:18:17,127,Lymm Runners,3,Male,120,Vet 45,12
+131,00:18:29,1141,James,O’driscoll,00:18:21,134,Twisted Running,1,Male,121,Vet 35,20
+132,00:18:30,1625,Paul,Shaw,00:18:20,132,Slaithwaite Striders RC,1,Male,122,Vet 45,13
+133,00:18:30,1611,Richard,Stirzaker,00:18:19,128,Salford Harriers & AC,10,Male,123,Vet 35,21
+134,00:18:30,1181,Laura,Lombard,00:18:20,129,Salford Harriers & AC,11,Female,11,Vet 40,3
+135,00:18:32,1532,Alyssa,Davey,00:18:25,138,Sale Harriers Manchester,7,Female,12,Senior Female (20-34),5
+136,00:18:32,1650,James,Butler,00:18:24,137,,124,Male,124,Vet 40,21
+137,00:18:33,1180,Matthew,Tatton,00:18:24,136,,125,Male,125,Vet 35,22
+138,00:18:33,1520,Chris,Beck,00:18:21,133,Prestwich AC,2,Male,126,Senior Male (20-34),51
+139,00:18:34,1641,Harry,Hignett,00:18:27,139,Widnes Running Club,2,Male,127,Senior Male (20-34),52
+140,00:18:35,1418,Jerome,Stevens,00:18:28,140,Newcastle Staffs AC,4,Male,128,Vet 45,14
+141,00:18:39,1589,David,Maher,00:18:31,144,Stockport Harriers & AC,6,Male,129,Vet 50,10
+142,00:18:40,1270,Greg,Marcroft,00:18:34,147,Trafford Athletic Club,2,Male,130,Vet 35,23
+143,00:18:40,1036,George,Steele,00:18:31,142,Manchester Harriers & AC,2,Male,131,Vet 40,22
+144,00:18:40,1519,Alia,Braithwaite,00:18:36,149,Bury Athletic Club,3,Female,13,Vet 35,3
+145,00:18:41,1605,Peter,Marsland,00:18:30,141,Run Sandymoor,1,Male,132,Vet 40,23
+146,00:18:42,1633,Mark,Keatley,00:18:34,146,Didsbury Runners,6,Male,133,Vet 45,15
+147,00:18:43,1822,Chris,Clarke,00:18:31,143,Chorlton Runners,16,Male,134,Vet 35,24
+148,00:18:43,1155,Finlay,Greenwood,00:18:33,145,,135,Male,135,Senior Male (20-34),53
+149,00:18:44,1785,Daniel,Martin,00:18:35,148,Swinton Running Club,1,Male,136,Vet 40,24
+150,00:18:48,1627,Sara,Barron,00:18:43,150,Bramhall Runners,1,Female,14,Vet 40,4
+151,00:18:54,1179,Darren,Dunn,00:18:46,153,Macclesfield Harriers & AC,3,Male,137,Vet 55,4
+152,00:18:55,1427,Hannah,Somani,00:18:47,154,Victoria Park Harriers and Tower Hamlets AC,1,Female,15,Vet 35,4
+153,00:18:58,1174,Alex,Bunney,00:18:45,152,,138,Male,138,Vet 35,25
+154,00:18:58,1845,James,Williams,00:18:44,151,Lymm Runners,4,Male,139,Vet 50,11
+155,00:19:00,1554,Kusal,Lokuge,00:18:53,155,Manchester Road Runners,2,Male,140,Vet 35,26
+156,00:19:01,1017,Michael,Kermode,00:18:54,157,Burnden Road Runners,1,Male,141,Senior Male (20-34),54
+157,00:19:05,1361,Liam,Foreman,00:19:01,160,,142,Male,142,Senior Male (20-34),55
+158,00:19:09,1370,Greg,Kelly,00:18:59,158,Stockport Harriers & AC,7,Male,143,Vet 40,25
+159,00:19:09,1651,Bethany,Hamilton,00:18:53,156,,16,Female,16,Senior Female (20-34),6
+160,00:19:09,1154,Jenny,Kelly,00:19:00,159,Stockport Harriers & AC,8,Female,17,Vet 40,5
+161,00:19:10,1649,Matt,Neilson,00:19:03,163,Bramhall Runners,2,Male,144,Vet 40,26
+162,00:19:12,1652,Darren,Donald,00:19:07,165,Stockport Harriers & AC,9,Male,145,Vet 45,16
+163,00:19:13,1598,Nicholas,Brown,00:19:03,164,Trafford Athletic Club,3,Male,146,Vet 40,27
+164,00:19:13,1614,Nicola,Mason,00:19:02,161,Salford Harriers & AC,12,Female,18,Senior Female (20-34),7
+165,00:19:17,1156,George,Haynes,00:19:08,168,Rochdale Harriers & AC,3,Male,147,Senior Male (20-34),56
+166,00:19:19,1513,Gareth,Chaloner,00:19:02,162,Wrexham AAC,1,Male,148,Vet 40,28
+167,00:19:20,1790,Chris,Essex,00:19:13,172,Didsbury Runners,7,Male,149,Vet 35,27
+168,00:19:23,1588,Simon,Withington,00:19:11,169,Northwich Running Club,1,Male,150,Vet 35,28
+169,00:19:24,1658,Douglas,Webb,00:19:20,180,Levenshulme Runners,1,Male,151,Vet 35,29
+170,00:19:25,1295,Frank,Podd,00:19:11,170,Bramhall Runners,3,Male,152,Vet 55,5
+171,00:19:25,1358,James Edward,Hartshorne,00:19:08,167,East Cheshire Harriers & Tameside AC,3,Male,153,Vet 40,29
+172,00:19:26,1814,Evie,Mortimer,00:19:07,166,Ancoats Run Club,1,Female,19,Senior Female (20-34),8
+173,00:19:26,1644,Philip,Largan,00:19:11,171,Sale Harriers Manchester,8,Male,154,Vet 40,30
+174,00:19:27,1112,Esther,Hardman,00:19:17,176,Stockport Harriers & AC,10,Female,20,Vet 40,6
+175,00:19:27,1843,Laurie,Sage,00:19:13,173,Levenshulme Runners,2,Male,155,Vet 45,17
+176,00:19:28,1050,Mia,Gibbons,00:19:26,184,Sale Harriers Manchester,9,Female,21,Senior Female (20-34),9
+177,00:19:29,1147,Will,Bell,00:19:14,175,,156,Male,156,Senior Male (20-34),57
+177,00:19:29,1536,Rachel,Bowden,00:19:21,181,Trafford Athletic Club,4,Female,22,Under 20,2
+179,00:19:30,1542,Liam,Ward,00:19:18,178,Manchester YMCA Harriers,3,Male,157,Vet 40,31
+180,00:19:31,1755,James,Madley,00:19:13,174,City Of Stoke Ac,2,Male,158,Senior Male (20-34),58
+181,00:19:32,1547,Amie,Hughes,00:19:22,182,Stockport Harriers & AC,11,Female,23,Senior Female (20-34),10
+182,00:19:32,1510,David,Norman,00:19:17,177,Warrington A C,2,Male,159,Vet 65,1
+183,00:19:36,1323,Andy,Adkin,00:19:30,189,Chorlton Runners,17,Male,160,Vet 45,18
+184,00:19:38,1551,Adam,Hardy,00:19:19,179,,161,Male,161,Senior Male (20-34),59
+185,00:19:38,1046,Francis,Richardson,00:19:31,190,,162,Male,162,Senior Male (20-34),60
+186,00:19:39,1300,Charlie,Wan,00:19:32,191,Salford Metropolitan AC,2,Male,163,Vet 40,32
+187,00:19:40,1044,Lydia,Gallyer-Barnett,00:19:29,188,Chorlton Runners,18,Female,24,Senior Female (20-34),11
+188,00:19:40,1622,Nick,Blanchard,00:19:25,183,,164,Male,164,Vet 45,19
+189,00:19:42,1009,Paul,Collins,00:19:26,186,Swinton Running Club,2,Male,165,Vet 55,6
+190,00:19:45,1842,Michael,Kennedy,00:19:34,192,,166,Male,166,Senior Male (20-34),61
+191,00:19:46,1829,Thom,Soutter,00:19:26,185,,167,Male,167,Vet 35,30
+192,00:19:48,1173,Archie,Gray,00:19:35,194,,168,Male,168,Vet 35,31
+193,00:19:49,1766,Carl,McMullen,00:19:27,187,Cannock & Stafford AC,1,Male,169,Vet 45,20
+194,00:19:52,1231,Hayley,Simpson,00:19:34,193,East Cheshire Harriers & Tameside AC,4,Female,25,Senior Female (20-34),12
+195,00:19:53,1795,Gary,Donaldson,00:19:36,195,Buxton AC,2,Male,170,Senior Male (20-34),62
+196,00:19:53,1635,Anjum,Ahmed,00:19:45,202,Rochdale Harriers & AC,4,Male,171,Vet 50,12
+197,00:19:57,1619,Paul,Abraham,00:19:45,200,Altrincham & District Athletic Club Limited,7,Male,172,Vet 50,13
+198,00:19:57,1813,Andrew John,Given,00:19:43,198,None,1,Male,173,Vet 40,33
+199,00:20:00,1531,David,Hope,00:19:43,199,,174,Male,174,Vet 50,14
+200,00:20:00,1810,Rob,Cale,00:19:50,206,Chorlton Runners,19,Male,175,Vet 35,32
+201,00:20:01,1525,Rosie,Bradshaw,00:19:52,208,Stockport Harriers & AC,12,Female,26,Under 20,3
+202,00:20:02,1188,Lindsay,Dixon,00:19:42,196,Newcastle Staffs AC,5,Female,27,Vet 50,1
+203,00:20:04,1521,Barrie,Powers,00:19:42,197,Wilmslow Running Club,2,Male,176,Vet 55,7
+204,00:20:05,1844,Jordan,Baxter,00:19:50,205,Levenshulme Runners,3,Male,177,Senior Male (20-34),63
+205,00:20:05,1587,David,Farquharson,00:19:46,203,,178,Male,178,Vet 40,34
+206,00:20:06,1898,Sophie,Hill,00:19:56,210,Bury Athletic Club,4,Female,28,Senior Female (20-34),13
+207,00:20:08,1161,Mark,Hadland,00:19:45,201,,179,Male,179,Vet 50,15
+208,00:20:09,1280,Ruth,Beresford,00:19:56,212,Trafford Athletic Club,5,Female,29,Vet 35,5
+209,00:20:09,1540,Evan,Davies,00:19:49,204,Didsbury Runners,8,Male,180,Senior Male (20-34),64
+209,00:20:09,1754,Jillian,Malone,00:19:57,213,Chester Road Runners,1,Female,30,Vet 45,2
+211,00:20:10,1550,Anne,Chinoy,00:19:53,209,Sale Harriers Manchester,10,Female,31,Vet 50,2
+212,00:20:10,1432,Ian,Emerton,00:20:00,214,Dragons Running Club (Sale),2,Male,181,Vet 45,21
+213,00:20:11,1567,Lorenzo,Giove,00:19:56,211,Altrincham & District Athletic Club Limited,8,Male,182,Vet 45,22
+214,00:20:11,1508,Emily,Irwin,00:20:00,215,Nantwich Running Club,1,Female,32,Vet 35,6
+215,00:20:14,1426,John,Lugsden,00:19:52,207,,183,Male,183,Vet 40,35
+216,00:20:16,1150,Keira,Fraser,00:20:05,217,,33,Female,33,Senior Female (20-34),14
+217,00:20:16,1176,Bizunesh,Deggefa,00:20:05,219,Sale Harriers Manchester,11,Female,34,Vet 40,7
+218,00:20:17,1476,Marianne,Beevor,00:20:07,220,Stockport Harriers & AC,13,Female,35,Vet 35,7
+219,00:20:19,1634,Christopher,Cockburn,00:20:05,218,Chorlton Runners,20,Male,184,Vet 45,23
+220,00:20:20,1052,Jessica,Welsh,00:20:03,216,Sale Harriers Manchester,12,Female,36,Vet 40,8
+221,00:20:22,1164,Adam,Horrocks,00:20:10,225,Knutsford Tri Club,2,Male,185,Vet 40,36
+222,00:20:23,1522,Luke,Baumber,00:20:09,223,Altrincham & District Athletic Club Limited,9,Male,186,Senior Male (20-34),65
+223,00:20:23,1796,Peter,Taylor,00:20:07,221,Macclesfield Harriers & AC,4,Male,187,Vet 45,24
+224,00:20:23,1821,Stuart,Holliday,00:20:10,224,Chorlton Runners,21,Male,188,Vet 45,25
+225,00:20:24,1820,Jane,Riley,00:20:18,230,Riley's Runners,1,Female,37,Vet 55,1
+226,00:20:25,1149,Michael,Bloor,00:20:08,222,,189,Male,189,Vet 35,33
+227,00:20:29,1205,Darren,Cottier,00:20:13,226,Cheshire Dragons,2,Male,190,Vet 55,8
+228,00:20:30,1220,Al,de Sousa Costain,00:20:15,229,Altrincham & District Athletic Club Limited,10,Male,191,Vet 35,34
+229,00:20:30,1470,Russell,Jones,00:20:14,228,Styal Running Club,1,Male,192,Vet 40,37
+230,00:20:33,1557,Mark,Cooper,00:20:14,227,Chorlton Runners,22,Male,193,Vet 55,9
+231,00:20:33,1815,Andrew,Neilson,00:20:18,231,Wilmslow Striders,1,Male,194,Vet 35,35
+232,00:20:40,1830,Carla,Houghton,00:20:29,235,Kirkby Milers AC,1,Female,38,Vet 35,8
+232,00:20:40,1846,Nikki,Walker,00:20:25,233,,38,Female,38,Vet 50,3
+234,00:20:41,1401,Nicholas,Thorne,00:20:26,234,,195,Male,195,Vet 50,16
+235,00:20:43,1608,Catraoine,McDonnell,00:20:30,237,,40,Female,40,Senior Female (20-34),15
+236,00:20:47,1799,Daniel,Pritchard,00:20:24,232,,196,Male,196,Senior Male (20-34),66
+237,00:20:48,1801,Oliver,Hill,00:20:30,236,Stockport Harriers & AC,14,Male,197,Vet 50,17
+238,00:20:49,1075,Hannah,Harding,00:20:38,239,Congleton Harriers,1,Female,41,Vet 40,9
+239,00:20:50,1653,Jennifer,Houghton,00:20:38,240,Kirkby Milers AC,2,Female,42,Vet 40,10
+240,00:20:55,1782,Duncan,Delaney,00:20:36,238,East Cheshire Harriers & Tameside AC,5,Male,198,Vet 60,1
+241,00:20:56,1599,Zoe,Storr,00:20:43,242,Trafford Athletic Club,6,Female,43,Vet 35,9
+242,00:20:57,1594,Ethan,Mackenzie,00:20:42,241,,199,Male,199,Senior Male (20-34),67
+243,00:21:00,1783,Rich,Hill,00:20:46,244,Altrincham & District Athletic Club Limited,11,Male,200,Vet 45,26
+244,00:21:02,1818,Andrew,Tomlinson,00:20:51,246,Wilmslow Striders,2,Male,201,Vet 40,38
+245,00:21:03,1549,Hector,Chinoy,00:20:44,243,Sale Harriers Manchester,13,Male,202,Vet 50,18
+246,00:21:11,1812,Katalin,Szabo,00:20:52,248,Chorlton Runners,23,Female,44,Vet 45,3
+247,00:21:12,1053,Barry,Fenton,00:20:50,245,Manchester Harriers & AC,3,Male,203,Vet 50,19
+248,00:21:13,1776,Neil,Brock,00:21:04,250,Royton Road Runners,3,Male,204,Vet 60,2
+249,00:21:14,1838,Neil,Ryan,00:20:54,249,Manchester Harriers & AC,4,Male,205,Vet 40,39
+250,00:21:16,1596,Jasmine,Green,00:20:51,247,Vegan Runners UK,2,Female,45,Vet 35,10
+251,00:21:17,1429,Michael,McLaughlin,00:21:08,252,Styal Running Club,2,Male,206,Vet 40,40
+252,00:21:20,1645,Mark,Day,00:21:06,251,Sale Harriers Manchester,14,Male,207,Vet 50,20
+253,00:21:22,1266,Debbie,Broad,00:21:10,253,Vale Royal AC,7,Female,46,Vet 55,2
+254,00:21:32,1103,Claire,Chaffer,00:21:18,258,Trafford Athletic Club,7,Female,47,Vet 45,4
+255,00:21:33,1777,Kevin,Foster,00:21:13,256,,208,Male,208,Vet 35,36
+256,00:21:33,1630,Jane,MacDonald,00:21:11,254,,48,Female,48,Senior Female (20-34),16
+257,00:21:34,1170,Sarah,Goulden,00:21:15,257,Sale Harriers Manchester,15,Female,49,Vet 35,11
+258,00:21:35,1076,Janine,Hulme,00:21:25,261,Congleton Harriers,2,Female,50,Vet 40,11
+259,00:21:37,1750,Richard,Hadley,00:21:21,259,Styal Running Club,3,Male,209,Vet 45,27
+260,00:21:40,1336,Chris,Green,00:21:12,255,Helsby Running Club,4,Male,210,Vet 35,37
+261,00:21:43,1527,David,Howard,00:21:37,268,Trawden Athletic Club,1,Male,211,Vet 65,2
+262,00:21:44,1607,Andrew,Ingham,00:21:33,266,Royton Road Runners,4,Male,212,Vet 35,38
+263,00:21:47,1514,Richard,Westwood,00:21:23,260,Wrexham AAC,2,Male,213,Vet 45,28
+264,00:21:47,1316,Sadia,Haq,00:21:28,262,Chorlton Runners,24,Female,51,Vet 40,12
+265,00:21:51,1493,Malcolm,Orrell,00:21:33,267,Salford Metropolitan AC,3,Male,214,Vet 35,39
+266,00:21:51,1616,Harriet,Hamilton,00:21:31,265,Sale Harriers Manchester,16,Female,52,Vet 40,13
+267,00:21:51,1819,Andrew,Taylor,00:21:29,264,Belle Vue Racers,1,Male,215,Vet 45,29
+268,00:21:53,1534,Catherine,Kilbane,00:21:28,263,Helsby Running Club,5,Female,53,Vet 35,12
+269,00:21:57,1824,Caitlin,Hill,00:21:40,269,Stockport Harriers & AC,15,Female,54,Under 20,4
+270,00:22:01,1786,Mark,Bousie,00:21:43,271,Stockport Harriers & AC,16,Male,216,Vet 45,30
+271,00:22:04,1643,Paul,Forrest,00:21:53,275,,217,Male,217,Vet 40,41
+272,00:22:04,1797,Paul,Bayliss,00:21:50,273,Chorlton Runners,25,Male,218,Vet 65,3
+273,00:22:07,1535,Sarah,Brown,00:22:00,278,Stockport Harriers & AC,17,Female,55,Vet 50,4
+274,00:22:10,1431,Jose,Perez,00:21:50,274,Lymm Runners,5,Male,219,Vet 50,21
+275,00:22:10,1642,Philip,Cantillon,00:21:40,270,,220,Male,220,Vet 35,40
+276,00:22:11,1808,Graham,Harrison,00:21:58,276,Altrincham & District Athletic Club Limited,12,Male,221,Vet 60,3
+277,00:22:15,1802,Amy,Bird,00:21:50,272,Widnes Running Club,3,Female,56,Vet 35,13
+278,00:22:16,1772,Alice,Linaker,00:21:59,277,,57,Female,57,Senior Female (20-34),17
+279,00:22:19,1781,Karen,Fleming,00:22:01,279,East Cheshire Harriers & Tameside AC,6,Female,58,Vet 50,5
+280,00:22:19,1359,James,Wilson,00:22:02,281,,222,Male,222,Senior Male (20-34),68
+281,00:22:21,1163,Stephen,Brown,00:22:16,290,Stockport Harriers & AC,18,Male,223,Vet 55,10
+282,00:22:21,1756,Jim,Dawson,00:22:02,282,Lymm Runners,6,Male,224,Vet 60,4
+283,00:22:22,1791,Sarah,Holland,00:22:01,280,,59,Female,59,Senior Female (20-34),18
+284,00:22:25,1106,Georgina,Walker,00:22:05,283,Lymm Runners,7,Female,60,Vet 50,6
+285,00:22:28,1848,Jenni,Park,00:22:12,288,,61,Female,61,Senior Female (20-34),19
+286,00:22:29,1049,Katherine,Murray,00:22:10,287,Chorlton Runners,26,Female,62,Vet 35,14
+287,00:22:30,1600,Ray,O'Keefe,00:22:08,286,Macclesfield Harriers & AC,5,Male,225,Vet 55,11
+288,00:22:32,1590,Joanne,Lott,00:22:18,291,Trafford Athletic Club,8,Female,63,Vet 55,3
+289,00:22:33,1338,Andy,Rawcliffe,00:22:08,285,,226,Male,226,Vet 40,42
+290,00:22:34,1809,Joseph,Kelly,00:22:08,284,Helsby Running Club,6,Male,227,Senior Male (20-34),69
+291,00:22:37,1166,Kathryn,Whittingham,00:22:15,289,,64,Female,64,Under 20,5
+292,00:22:39,1900,Rebecca,Glen,00:22:19,292,Goyt Valley Striders,2,Female,65,Vet 45,5
+293,00:22:45,1347,Angelique,Bueler,00:22:32,299,Chorlton Runners,27,Female,66,Vet 45,6
+294,00:22:47,1639,Greg,Stephens,00:22:22,293,Widnes Running Club,4,Male,228,Vet 45,31
+295,00:22:48,1430,Emma,Nunnerley,00:22:31,297,Lymm Runners,8,Female,67,Vet 45,7
+296,00:22:49,1458,Michael,Jackson,00:22:25,294,Rochdale Harriers & AC,5,Male,229,Vet 40,43
+297,00:22:53,1606,Rio,Monks,00:22:26,295,Run Sandymoor,2,Male,230,Senior Male (20-34),70
+298,00:22:53,1169,Chris,Sewart,00:22:32,300,Manchester Harriers & AC,5,Male,231,Vet 50,22
+299,00:22:54,1084,Gail,Shaw,00:22:41,304,Royton Road Runners,5,Female,68,Vet 60,1
+300,00:22:54,1561,Holly,Waddell,00:22:27,296,Dragons Running Club (Sale),3,Female,69,Senior Female (20-34),20
+301,00:22:54,1753,Lesley,Sinclair,00:22:43,306,Stockport Harriers & AC,19,Female,70,Vet 60,2
+302,00:22:56,1780,Jessica,Hardingham,00:22:43,305,,71,Female,71,Senior Female (20-34),21
+303,00:22:57,1793,Tom,Woods,00:22:35,302,Levenshulme Runners,4,Male,232,Senior Male (20-34),71
+304,00:22:58,1167,Grace,Holloway-Neville,00:22:33,301,Manchester YMCA Harriers,4,Female,72,Senior Female (20-34),22
+305,00:22:59,1259,Vicki,Cleall,00:22:31,298,Dragons Running Club (Sale),4,Female,73,Vet 50,7
+306,00:23:01,1618,Jen,Haywood,00:22:36,303,Vegan Runners UK,3,Female,74,Vet 40,14
+307,00:23:03,1016,Caroline,Baba,00:22:43,307,Manchester Harriers & AC,6,Female,75,Vet 45,8
+308,00:23:06,1350,Michael,Dolan,00:22:49,309,,233,Male,233,Vet 60,5
+309,00:23:09,1831,John,Battersby,00:23:01,312,,234,Male,234,Vet 65,4
+310,00:23:10,1833,Stuart,Bradshaw,00:22:46,308,Styal Running Club,4,Male,235,Vet 50,23
+311,00:23:13,1800,Lexy,Denton,00:23:02,313,Styal Running Club,5,Female,76,Vet 40,15
+312,00:23:21,1834,James,Yarwood,00:22:55,310,,236,Male,236,Vet 40,44
+313,00:23:22,1402,Edward,Baldwin,00:23:00,311,Manchester Harriers & AC,7,Male,237,Vet 55,12
+314,00:23:24,1752,Louise,Mangan,00:23:12,315,Trafford Athletic Club,9,Female,77,Vet 50,8
+315,00:23:24,1836,Andrew,Cole,00:23:03,314,East Cheshire Harriers & Tameside AC,7,Male,238,Vet 55,13
+316,00:23:33,1455,Mary,Jones,00:23:14,316,Goyt Valley Striders,3,Female,78,Vet 50,9
+317,00:23:35,1533,Tracy,Dover,00:23:16,318,Cheshire Dragons,3,Female,79,Vet 60,3
+318,00:23:36,1333,Ben,Lockett,00:23:15,317,Twisted Running,2,Male,239,Vet 40,45
+319,00:23:36,1227,Han,Blackwell,00:23:17,319,Manchester Harriers & AC,8,Female,80,Senior Female (20-34),23
+320,00:23:43,1113,Samuel,Crawshaw,00:23:22,321,Levenshulme Runners,5,Male,240,Vet 45,32
+321,00:23:45,1039,Sara,Harris,00:23:20,320,Styal Running Club,6,Female,81,Vet 50,10
+322,00:23:45,1646,Eddie,Edwards,00:23:31,324,Prestwich AC,3,Male,241,Vet 55,14
+323,00:23:47,1765,Claire,Skea,00:23:22,322,Widnes Running Club,5,Female,82,Senior Female (20-34),24
+324,00:23:49,1817,Katie,Mcpartland,00:23:25,323,,83,Female,83,Vet 50,11
+325,00:23:49,1172,Laura,Oldroyd,00:23:32,326,,84,Female,84,Senior Female (20-34),25
+326,00:23:50,1847,Amy,Betteridge,00:23:34,327,,85,Female,85,Senior Female (20-34),26
+327,00:23:50,1778,Trish,Callan,00:23:37,329,Royton Road Runners,6,Female,86,Vet 35,15
+328,00:23:51,1348,Janice,Harding,00:23:36,328,Sale Harriers Manchester,17,Female,87,Vet 50,12
+329,00:23:56,1592,Natasha,Broadhurst,00:23:32,325,Glossopdale Harriers,4,Female,88,Senior Female (20-34),27
+330,00:23:56,1042,Rachel,Thomas,00:23:40,332,Salford Metropolitan AC,4,Female,89,Vet 40,16
+331,00:23:57,1512,Nick,Thomas,00:23:40,333,,242,Male,242,Vet 50,24
+332,00:23:57,1265,Stephen,Green,00:23:44,335,Clayton-le-Moors Harriers,1,Male,243,Vet 70,1
+333,00:23:58,1602,Hayley,Cocksey,00:23:38,330,Hyde Village Striders,2,Female,90,Vet 35,16
+334,00:23:59,1792,Jenny,Woods,00:23:39,331,Levenshulme Runners,6,Female,91,Senior Female (20-34),28
+335,00:24:10,1620,Amanda,Hickens,00:23:45,336,,92,Female,92,Vet 50,13
+336,00:24:11,1537,Warren,Bowden,00:23:53,339,Chorlton Runners,28,Male,244,Vet 55,15
+337,00:24:12,1237,Sue,Banfield,00:23:48,337,,93,Female,93,Vet 55,4
+338,00:24:14,1062,Matt,Hanson,00:23:51,338,Manchester Harriers & AC,9,Male,245,Vet 45,33
+339,00:24:16,1108,Zak,Cook,00:23:53,340,Styal Running Club,7,Male,246,Senior Male (20-34),72
+340,00:24:17,1131,Mark,Burnett,00:23:44,334,,247,Male,247,Vet 55,16
+341,00:24:17,1623,Louise,Anderson,00:24:04,342,,94,Female,94,Senior Female (20-34),29
+342,00:24:20,1152,Debra,Leah,00:24:13,345,Trawden Athletic Club,2,Female,95,Vet 55,5
+343,00:24:22,1632,Louise,Harrison,00:24:11,344,Stockport Harriers & AC,20,Female,96,Vet 50,14
+344,00:24:23,1433,Allison,Kirkbride,00:23:57,341,Styal Running Club,8,Female,97,Vet 55,6
+345,00:24:28,1481,Gary,Chadwick,00:24:10,343,,248,Male,248,Vet 40,46
+346,00:24:29,1760,Suzanne,Darke,00:24:15,347,Royton Road Runners,7,Female,98,Vet 50,15
+347,00:24:34,1153,Alan,Clarkson,00:24:21,350,Clayton-le-Moors Harriers,2,Male,249,Vet 65,5
+348,00:24:38,1165,Andy,Draper,00:24:15,348,,250,Male,250,Vet 35,41
+349,00:24:40,1038,Johanne,Greenwood,00:24:14,346,Styal Running Club,9,Female,99,Vet 45,9
+350,00:24:42,1631,Nigel,Harrison,00:24:28,351,Stockport Harriers & AC,21,Male,251,Vet 60,6
+351,00:24:44,1159,Philip,Dover,00:24:20,349,Cheshire Dragons,4,Male,252,Vet 65,6
+352,00:24:57,1251,Debbie,McEvoy,00:24:41,353,Sale Harriers Manchester,18,Female,100,Vet 50,16
+353,00:25:01,1177,Corina,Haynes,00:24:33,352,Rochdale Harriers & AC,6,Female,101,Vet 60,4
+354,00:25:21,1364,George,Williams,00:24:57,355,,253,Male,253,Vet 75,1
+355,00:25:24,1640,Grace,Gorst,00:24:55,354,Widnes Running Club,6,Female,102,Vet 35,17
+356,00:25:31,1206,Claire,Cameron,00:25:08,356,,103,Female,103,Vet 45,10
+357,00:25:49,1850,Damien,Cullington,00:25:30,358,Southport Waterloo AC,1,Male,254,Vet 45,34
+358,00:25:51,1403,Ian,Morton,00:25:29,357,Styal Running Club,10,Male,255,Vet 60,7
+359,00:25:58,1124,Ruud,Palmer,00:25:32,359,Chorlton Runners,29,Male,256,Vet 45,35
+360,00:26:00,1805,Ryan,Warters,00:25:33,360,Dragons Running Club (Sale),5,Male,257,Senior Male (20-34),73
+361,00:26:05,1823,Arabella,Stevens,00:25:47,365,Stockport Harriers & AC,22,Female,104,Vet 50,17
+362,00:26:05,1841,Ann,Richardson,00:25:37,361,Marple Runners,1,Female,105,Vet 40,17
+363,00:26:06,1099,Graeme,Wilkinson,00:25:39,362,Manchester YMCA Harriers,5,Male,258,Vet 40,47
+364,00:26:08,1013,Ann-Marie,Jones,00:25:48,366,Macclesfield Harriers & AC,6,Female,106,Vet 70,1
+365,00:26:11,1656,Matthew,MacCann,00:25:43,363,Didsbury Runners,9,Male,259,Vet 55,17
+366,00:26:12,1473,John,Waterton,00:25:43,364,Didsbury Runners,10,Male,260,Vet 70,2
+367,00:26:20,1397,Michael,Gorton,00:25:51,367,Winston Runners,1,Male,261,Vet 55,18
+368,00:26:30,1353,Owen,Flage,00:26:21,370,Royton Road Runners,8,Male,262,Vet 50,25
+369,00:26:31,1648,Allana,Edwards,00:26:16,369,,107,Female,107,Senior Female (20-34),30
+370,00:26:45,1849,Mike,Duncombe,00:26:15,368,Altrincham & District Athletic Club Limited,13,Male,263,Vet 65,7
+371,00:26:50,1826,Rosalind,Stevens,00:26:32,373,,108,Female,108,Senior Female (20-34),31
+372,00:26:50,1758,Geoff,Beattie,00:26:31,372,Sale Harriers Manchester,19,Male,264,Vet 70,3
+373,00:26:52,1748,Mike,Cunningham,00:26:28,371,Manchester Harriers & AC,10,Male,265,Vet 80,1
+374,00:27:10,1647,Francine,Edwards,00:26:55,374,,109,Female,109,Vet 55,7
+375,00:27:10,1774,David,Bentley,00:26:58,375,Rochdale Harriers & AC,7,Male,266,Vet 50,26
+376,00:27:16,1762,Stephen,Rogowskyj,00:26:59,376,Royton Road Runners,9,Male,267,Vet 65,8
+377,00:27:20,1002,Alan,Jenkinson,00:27:03,377,Styal Running Club,11,Male,268,Vet 75,2
+378,00:27:32,1148,Anthony,Hillier,00:27:16,379,Stockport Harriers & AC,23,Male,269,Vet 75,3
+379,00:27:34,1515,Mark,Whelan,00:27:08,378,Buxton AC,3,Male,270,Vet 55,19
+380,00:27:43,1352,Neil,Canham,00:27:18,380,Trafford Athletic Club,10,Male,271,Vet 75,4
+381,00:28:03,1028,Andrew,Wilson,00:27:38,381,Lonely Goat RC,1,Male,272,Vet 60,8
+382,00:28:08,1811,Cassie,Green,00:27:40,383,Helsby Running Club,7,Female,110,Vet 35,18
+383,00:28:09,1804,Charlotte,Cantillon,00:27:39,382,,111,Female,111,Vet 35,19
+384,00:28:17,1835,Rosie,Mason,00:28:02,385,,112,Female,112,Senior Female (20-34),32
+385,00:28:29,1746,Ray,Dalby,00:28:00,384,Rochdale Harriers & AC,8,Male,273,Vet 70,4
+386,00:28:33,1807,Jack,Gorin,00:28:07,386,,274,Male,274,Vet 45,36
+387,00:28:40,1899,Sue,Exon,00:28:15,389,Trafford Athletic Club,11,Female,113,Vet 70,2
+388,00:28:41,1803,Dawn,Hignett,00:28:11,387,Widnes Running Club,7,Female,114,Vet 50,18
+389,00:28:41,1749,Justin,Bones,00:28:14,388,Burnden Road Runners,2,Male,275,Vet 45,37
+390,00:28:48,1238,Martin,Banfield,00:28:17,390,,276,Male,276,Vet 75,5
+391,00:29:14,1624,Julie,Inker,00:28:52,392,Hyde Village Striders,3,Female,115,Vet 45,11
+392,00:29:17,1030,Alexis,Dinsmor,00:28:50,391,Stockport Harriers & AC,24,Female,116,Vet 75,1
+393,00:29:22,1615,Elaine,Brown,00:29:06,393,Royton Road Runners,10,Female,117,Vet 60,5
+394,00:29:38,1290,Lucinda,Summers,00:29:10,394,Dragons Running Club (Sale),6,Female,118,Vet 55,8
+395,00:29:53,1082,Rebecca,Lofthouse,00:29:26,395,Dragons Running Club (Sale),7,Female,119,Vet 35,20
+396,00:30:10,1477,Davide,Previti,00:30:10,396,Stockport Harriers & AC,25,Male,277,Senior Male (20-34),74
+397,00:30:39,1775,Kay,Bentley,00:30:27,398,Rochdale Harriers & AC,9,Female,120,Vet 45,12
+398,00:30:43,1654,Alison,Lynch,00:30:12,397,Swinton Running Club,3,Female,121,Vet 55,9
+399,00:30:54,1832,Carol,Halford,00:30:24,398,,122,Female,122,Vet 55,10
+400,00:31:04,1763,Angela,Rogowskyj,00:30:48,400,Royton Road Runners,11,Female,123,Vet 55,11
+401,00:31:43,1502,Michael,Fagan,00:31:11,401,,278,Male,278,Vet 60,9
+402,00:41:47,1761,June,Allingan,00:41:29,402,Royton Road Runners,12,Female,124,Vet 80,1
+,DNF,1117,Mark,Newton,,,Altrincham & District Athletic Club Limited,,Male,,Vet 55,
+,Not started,1001,David,Kerfoot,,,Preston Harriers,,Male,,Vet 65,
+,Not started,1008,Fahmi,Mohammed,,,Belle Vue Racers,,Male,,Vet 45,
+,Not started,1033,Craig,Sykes,,,Bury Athletic Club,,Male,,Vet 50,
+,Not started,1043,Adam,Brant,,,Chorlton Runners,,Male,,Vet 45,
+,Not started,1051,Ben,Stredder,,,Didsbury Runners,,Male,,Vet 45,
+,Not started,1055,Duncan,Dickinson,,,Altrincham & District Athletic Club Limited,,Male,,Vet 60,
+,Not started,1063,Paul,Rooney,,,,,Male,,Vet 55,
+,Not started,1073,Gary,Coxon,,,East Cheshire Harriers & Tameside AC,,Male,,Vet 65,
+,Not started,1079,Ruth,Tidd,,,Altrincham & District Athletic Club Limited,,Female,,Vet 40,
+,Not started,1107,Edward,Taylor,,,Knutsford Tri Club,,Male,,Vet 55,
+,Not started,1116,Michael,Norbury,,,Didsbury Runners,,Male,,Vet 35,
+,Not started,1118,Lloyd,Barlow,,,,,Male,,Vet 55,
+,Not started,1119,Katie-Niamh,Crawford,,,Didsbury Runners,,Female,,Vet 35,
+,Not started,1140,Michael,Hargreaves,,,Chorlton Runners,,Male,,Vet 40,
+,Not started,1182,Peter,O'Neill,,,Sale Harriers Manchester,,Male,,Vet 45,
+,Not started,1185,Khaleb,Djesa,,,Sale Harriers Manchester,,Male,,Senior Male (20-34),
+,Not started,1186,Ian,Nuttall,,,Prestwich AC,,Male,,Vet 55,
+,Not started,1187,John,Fay,,,Royton Road Runners,,Male,,Vet 40,
+,Not started,1193,Jonathon,Knight,,,Stockport Harriers & AC,,Male,,Vet 45,
+,Not started,1195,Garry,Stubbs-bronson,,,Preston Harriers,,Male,,Vet 50,
+,Not started,1198,Emma,Riley,,,Stockport Harriers & AC,,Female,,Vet 40,
+,Not started,1204,Jacqueline,Cordingley,,,Sale Harriers Manchester,,Female,,Vet 65,
+,Not started,1212,Juliet,Smith,,,Rochdale Harriers & AC,,Female,,Vet 50,
+,Not started,1247,Heather,Rooney,,,,,Female,,Vet 55,
+,Not started,1276,Lucy,Cooke,,,Sale Harriers Manchester,,Female,,Vet 45,
+,Not started,1284,Katie,Syrett,,,Chorlton Runners,,Female,,Vet 45,
+,Not started,1310,Chris,Turner,,,Styal Running Club,,Male,,Vet 35,
+,Not started,1315,Tim,Garvey,,,Styal Running Club,,Male,,Vet 70,
+,Not started,1344,Rob,McMurdo,,,Stockport Harriers & AC,,Male,,Vet 35,
+,Not started,1383,Graham,Kitchen,,,Dragons Running Club (Sale),,Male,,Vet 65,
+,Not started,1386,Jason,Keast,,,Royton Road Runners,,Male,,Vet 55,
+,Not started,1396,Brad,Ehlen,,,Northwich Running Club,,Male,,Vet 50,
+,Not started,1411,Rachael,Rozhdestvenskaya,,,Sale Harriers Manchester,,Female,,Vet 35,
+,Not started,1413,David,Gee,,,Manchester Harriers & AC,,Male,,Vet 70,
+,Not started,1434,Robert,Kirkbride,,,Styal Running Club,,Male,,Vet 55,
+,Not started,1438,Dave,Watt,,,Royton Road Runners,,Male,,Vet 45,
+,Not started,1439,Oliver,Jones,,,,,Male,,Senior Male (20-34),
+,Not started,1441,Michael,O’Connor,,,Vale Royal AC,,Male,,Vet 35,
+,Not started,1451,Gareth,Bright,,,Rochdale Harriers & AC,,Male,,Vet 45,
+,Not started,1474,Luke,Edwards,,,Bolton United Harriers & AC,,Male,,Senior Male (20-34),
+,Not started,1501,Paul,Griffiths,,,Chorlton Runners,,Male,,Vet 50,
+,Not started,1556,Richard,Evans,,,Altrincham & District Athletic Club Limited,,Male,,Vet 55,
+,Not started,1563,Richard,Cowell,,,,,Male,,Vet 40,
+,Not started,1573,George,Cooper,,,Didsbury Runners,,Male,,Senior Male (20-34),
+,Not started,1575,Richard,Bond McNally,,,Styal Running Club,,Male,,Vet 45,
+,Not started,1579,Catherine,Poole,,,Manchester Harriers & AC,,Female,,Vet 50,
+,Not started,1583,Martin,Dickson,,,Levenshulme Runners,,Male,,Vet 35,
+,Not started,1584,Paul,Arrowsmith,,,Styal Running Club,,Male,,Vet 50,
+,Not started,,Paul,Adams,,,Chorlton Runners,,Male,,Vet 60,
+,Not started,,Aisha,Anwar,,,Didsbury Runners,,Female,,Senior Female (20-34),
+,Not started,,Tom,Armstrong,,,Cheshire Dragons,,Male,,Vet 45,
+,Not started,,Matt,Ault,,,,,Male,,Vet 40,
+,Not started,,Daniel,Bamber,,,East Cheshire Harriers & Tameside AC,,Male,,Vet 45,
+,Not started,,David,Barratt,,,Salford Harriers & AC,,Male,,Senior Male (20-34),
+,Not started,,Alex,Barry,,,,,Female,,Senior Female (20-34),
+,Not started,,Deborah,Beresford,,,Manchester Harriers & AC,,Female,,Vet 60,
+,Not started,,Mike,Bloor,,,,,Male,,Vet 35,
+,Not started,,Shaun,Boatwright,,,Sheffield RC,,Male,,Senior Male (20-34),
+,Not started,,Imogen,Bower,,,,,Female,,Senior Female (20-34),
+,Not started,,Elliot,Brady,,,Manchester Harriers & AC,,Male,,Senior Male (20-34),
+,Not started,,Martin,Burke,,,Salford Metropolitan AC,,Male,,Vet 45,
+,Not started,,Amy Rose,Cauley,,,Trafford Athletic Club,,Female,,Vet 35,
+,Not started,,Laura,Coucill,,,Salford Harriers & AC,,Female,,Vet 40,
+,Not started,,Louise,Coutts,,,Styal Running Club,,Female,,Senior Female (20-34),
+,Not started,,Graham,Crewe,,,Wilmslow Running Club,,Male,,Vet 70,
+,Not started,,David,Cross,,,Stockport Harriers & AC,,Male,,Vet 35,
+,Not started,,Martin,Cross,,,Stone Master Marathoners,,Male,,Senior Male (20-34),
+,Not started,,Matthew,Cullen-Brown,,,Sale Harriers Manchester,,Male,,Under 20,
+,Not started,,Philip,Doyle,,,,,Male,,Vet 55,
+,Not started,,Shannon,Duckworth,,,,,Female,,Senior Female (20-34),
+,Not started,,Fiona,Eaton,,,Lymm Runners,,Female,,Vet 55,
+,Not started,,Mark,Edmundson,,,Styal Running Club,,Male,,Vet 55,
+,Not started,,Greig,Frankland-Wilkinson,,,Dragons Running Club (Sale),,Male,,Vet 40,
+,Not started,,Rachel,Friend,,,Leeds City Athletic Club,,Female,,Senior Female (20-34),
+,Not started,,Glen,Gandy,,,Manchester Harriers & AC,,Male,,Vet 55,
+,Not started,,Steven,Gavin,,,Sale Harriers Manchester,,Male,,Vet 55,
+,Not started,,Soraya,Gill,,,Didsbury Runners,,Female,,Vet 65,
+,Not started,,Thomas,Gunby,,,,,Male,,Senior Male (20-34),
+,Not started,,Thomas,Hodgson,,,Salford Harriers & AC,,Male,,Vet 35,
+,Not started,,Claire,Holloway,,,Rochdale Harriers & AC,,Female,,Vet 45,
+,Not started,,Dave,Howlett,,,Sale Harriers Manchester,,Male,,Vet 35,
+,Not started,,David,Hughes,,,Salford Metropolitan AC,,Male,,Vet 45,
+,Not started,,Jordan,Hughes,,,Middleton Harriers AC,,Male,,Vet 35,
+,Not started,,Lee,Hughes,,,Lymm Runners,,Male,,Vet 50,
+,Not started,,Peter,Hulme,,,Sale Harriers Manchester,,Male,,Vet 50,
+,Not started,,Adrian,Lloyd,,,Ancoats Run Club,,Male,,Vet 55,
+,Not started,,Phil,Lockett,,,Rochdale Harriers & AC,,Male,,Vet 40,
+,Not started,,Max,Lowrey,,,Salford Harriers & AC,,Male,,Under 20,
+,Not started,,Martin,Lucass,,,Levenshulme Runners,,Male,,Vet 40,
+,Not started,,David,Marsh,,,Sale Harriers Manchester,,Male,,Vet 35,
+,Not started,,Catriona,Marshall,,,Wilmslow Running Club,,Female,,Vet 55,
+,Not started,,Laura,Martin,,,Sale Harriers Manchester,,Female,,Senior Female (20-34),
+,Not started,,Andrew,Mayes,,,New Levels Run Club,,Male,,Vet 45,
+,Not started,,Des,McIvor,,,Wallasey Athletic Club,,Male,,Vet 60,
+,Not started,,Michael,Monaghan,,,Hyde Village Striders,,Male,,Senior Male (20-34),
+,Not started,,Sophie,Moore,,,Manchester Road Runners,,Female,,Senior Female (20-34),
+,Not started,,Lee,Morgan,,,Middleton Harriers AC,,Male,,Vet 40,
+,Not started,,Brian James,Morris,,,Darwen Dashers RC,,Male,,Vet 60,
+,Not started,,David,Okopochini,,,Belle Vue Racers,,Male,,Vet 55,
+,Not started,,Nisha,Parmar,,,Widnes Running Club,,Female,,Senior Female (20-34),
+,Not started,,Dave,Peart,,,Royton Road Runners,,Male,,Vet 55,
+,Not started,,Jim,Pendrill,,,Macclesfield Harriers & AC,,Male,,Vet 50,
+,Not started,,Adam,Piggott-Green,,,,,Male,,Senior Male (20-34),
+,Not started,,Beth,Powell,,,Stockport Harriers & AC,,Female,,Vet 40,
+,Not started,,Calum,Pratt,,,Sale Harriers Manchester,,Male,,Vet 35,
+,Not started,,Ian,Prime,,,Congleton Harriers,,Male,,Vet 60,
+,Not started,,Elizabeth,Renondeau,,,Vale Royal AC,,Female,,Vet 45,
+,Not started,,Gareth,Roberts,,,,,Male,,Vet 40,
+,Not started,,Andrew,Robertson,,,Chorlton Runners,,Male,,Vet 35,
+,Not started,,Julie,Robertson,,,Holcombe Harriers,,Female,,Vet 55,
+,Not started,,Thomas,Rogers,,,Trafford Athletic Club,,Male,,Senior Male (20-34),
+,Not started,,Angus,Rose,,,,,Male,,Vet 55,
+,Not started,,Zach,Rose,,,Trafford Athletic Club,,Male,,Under 20,
+,Not started,,Martin,Sawyer,,,,,Male,,Senior Male (20-34),
+,Not started,,Wayne,Shaw,,,Sale Harriers Manchester,,Male,,Vet 40,
+,Not started,,Rob,Sheldon,,,Glossopdale Harriers,,Male,,Vet 45,
+,Not started,,Ian,Stainthorpe,,,Rochdale Harriers & AC,,Male,,Vet 60,
+,Not started,,Fiona,Stevens,,,Lindley Running Club,,Female,,Vet 55,
+,Not started,,Paulette,Storey,,,Dragons Running Club (Sale),,Female,,Vet 70,
+,Not started,,Will,Sykes,,,Hyde Park Harriers,,Male,,Senior Male (20-34),
+,Not started,,Gary,Tait,,,Wilmslow Running Club,,Male,,Vet 60,
+,Not started,,Alex,Venables,,,Preston Harriers,,Male,,Vet 40,
+,Not started,,Maisie,Wainwright,,,Royton Road Runners,,Female,,Senior Female (20-34),
+,Not started,,Sameera,Westcott,,,Widnes Running Club,,Female,,Vet 40,
+,Not started,,Liam,Wilkinson,,,Warrington Road Runners,,Male,,Vet 40,
+,Not started,,Mandy,Winckworth,,,Styal Running Club,,Female,,Vet 65,
+,Not started,,Leon,Wint,,,Middleton Harriers AC,,Male,,Vet 35,
+,Not started,,Alex,Yip,,,Ancoats Run Club,,Male,,Senior Male (20-34),
+,Not started,,Chiara,Young,,,Sale Harriers Manchester,,Female,,Senior Female (20-34),
