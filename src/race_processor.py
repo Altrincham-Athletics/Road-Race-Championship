@@ -94,9 +94,9 @@ class RaceProcessor:
         for race in self.races.values():
             RacePage.print_race_page(race, self.athletes)
 
-        RacePage.print_combined_race_page(self.combined_5k, self.athletes)
+        RacePage.print_combined_race_page(self.combined_5k, self.athletes, self.races)
 
-        RacePage.print_combined_race_page(self.combined_marathon, self.athletes)
+        RacePage.print_combined_race_page(self.combined_marathon, self.athletes, self.races)
 
         IndexPage.print_index_page(
             Path() / 'docs' / 'index.html', self.athletes, self.races.values(), self.combined_5k, self.combined_marathon

@@ -20,23 +20,23 @@ class RacePage:
             hp.html_start_table(
                 headers, file=file_id, caption=caption)
 
-        def print_race_summary(race:RaceEntry, file_id):
-            gender = 'M' if race.male else 'F'
-            athlete = all_athletes[race.athlete]
-            counter = '*' if race in athlete.counting_races else ''
+        def print_race_summary(race_entry:RaceEntry, file_id):
+            gender = 'M' if race_entry.male else 'F'
+            athlete = all_athletes[race_entry.athlete]
+            counter = '*' if race_entry in athlete.counting_races else ''
             cols = [
-                    hp.html_link(race.athlete+counter, Path('..')/athlete.summary_page),
+                    hp.html_link(race_entry.athlete+counter, Path('..')/athlete.summary_page),
                     gender,
                     athlete.age_category,
-                    secs_to_time_str(race.time),
-                    f'{race.age_pct:3.2f}'
+                    secs_to_time_str(race_entry.time),
+                    f'{race_entry.age_pct:3.2f}'
                 ]
             
-            if not (race.is_5k or race.is_marathon):
+            if not (race_entry.is_5k or race_entry.is_marathon):
                 cols += [
-                    race.time_score, 
-                    race.age_pct_score,
-                    race.total_score
+                    race_entry.time_score, 
+                    race_entry.age_pct_score,
+                    race_entry.total_score
                 ]
 
             hp.html_table_row(
@@ -58,28 +58,31 @@ class RacePage:
             hp.html_footer(file_id)
 
     @staticmethod
-    def print_combined_race_page(race:Race, all_athletes:dict[str,Athlete]):
+    def print_combined_race_page(race:Race, all_athletes:dict[str,Athlete], all_races:dict[str,Race]):
         
         def print_race_headers(file_id):
+            caption = "* denotes race contributes to athlete's total score"
             hp.html_start_table(
                 ['Athlete', 'Gender', 'Category', 'Race', 'Date', 'Time', 'Age %', 'Time score', 'Age % score', 'Total score'],
-                file=file_id)
+                file=file_id, caption=caption)
 
-        def print_race_summary(race:RaceEntry, file_id):
-            gender = 'M' if race.male else 'F'
-            athlete = all_athletes[race.athlete]
+        def print_race_summary(race_entry:RaceEntry, file_id):
+            gender = 'M' if race_entry.male else 'F'
+            athlete = all_athletes[race_entry.athlete]
+            counter = '*' if race_entry in athlete.counting_races else ''
+            individual_race = all_races[race_entry.race_name]
             hp.html_table_row(
                 [
-                    hp.html_link(race.athlete, Path('..')/athlete.summary_page),
+                    hp.html_link(race_entry.athlete+counter, Path('..')/athlete.summary_page),
                     gender,
                     athlete.age_category,
-                    race.race_name,
-                    date_to_str(race.race_date),
-                    secs_to_time_str(race.time), 
-                    f'{race.age_pct:3.2f}',
-                    race.time_score,
-                    race.age_pct_score,
-                    race.total_score
+                    hp.html_link(race_entry.race_name, Path('..')/individual_race.summary_page),
+                    date_to_str(race_entry.race_date),
+                    secs_to_time_str(race_entry.time), 
+                    f'{race_entry.age_pct:3.2f}',
+                    race_entry.time_score,
+                    race_entry.age_pct_score,
+                    race_entry.total_score
                 ],
                 file=file_id)
         
