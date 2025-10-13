@@ -35,6 +35,8 @@ def html_p(text:str, file):
 
 def html_link(show_str:str, link:Path)->str:
     web_link = link.as_posix().replace('docs/', '')
+    if web_link.startswith('https:/'):
+        web_link = web_link.replace('https:/', 'https://')
     return f'<a href="{web_link}">{show_str}</a>'
 
 def html_header(title:str, css, file_id):
