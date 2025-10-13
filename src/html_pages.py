@@ -9,8 +9,10 @@ def html_table_row(values:list, file):
         html_table_col(value, file=file)
     print('</tr>', file=file)
 
-def html_start_table(headers:list, file):
+def html_start_table(headers:list, file, caption:str=''):
     print('<table>', file=file)
+    if caption:
+        print(f'<caption>{caption}</caption>', file=file)
     print('<tr>', file=file)
     for header in headers:
         print(f'    <th>{header}</th>', file=file)  

@@ -13,23 +13,34 @@ class RacePage:
     def print_race_page(race:Race, all_athletes:dict[str,Athlete]):
         
         def print_race_headers(file_id):
+            headers = ['Athlete', 'Gender', 'Category', 'Time', 'Age %']
+            if not (race.is_5k or race.is_marathon):
+                headers += ['Time score', 'Age % score', 'Total score']
+            caption = "* denotes race contributes to athlete's total score"
             hp.html_start_table(
-                ['Athlete', 'Gender', 'Category', 'Time', 'Age %', 'Time score', 'Age % score', 'Total score'], file=file_id)
+                headers, file=file_id, caption=caption)
 
         def print_race_summary(race:RaceEntry, file_id):
             gender = 'M' if race.male else 'F'
             athlete = all_athletes[race.athlete]
-            hp.html_table_row(
-                [
-                    hp.html_link(race.athlete, Path('..')/athlete.summary_page),
+            counter = '*' if race in athlete.counting_races else ''
+            cols = [
+                    hp.html_link(race.athlete+counter, Path('..')/athlete.summary_page),
                     gender,
                     athlete.age_category,
                     secs_to_time_str(race.time),
-                    f'{race.age_pct:3.2f}',
+                    f'{race.age_pct:3.2f}'
+                ]
+            
+            if not (race.is_5k or race.is_marathon):
+                cols += [
                     race.time_score, 
                     race.age_pct_score,
                     race.total_score
-                ],
+                ]
+
+            hp.html_table_row(
+                cols,
                 file=file_id)
         
         def print_athlete_list(athletes:list[RaceEntry], file_id):            
