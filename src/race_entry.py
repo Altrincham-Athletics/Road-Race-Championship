@@ -31,7 +31,7 @@ class RaceEntry:
         return self.time_score + self.age_pct_score
     
     @property
-    def is_nominated(self)->bool:
+    def is_club(self)->bool:
         return not self.is_5k and not self.is_marathon
 
     def compute_age_pct(self, dob:date):

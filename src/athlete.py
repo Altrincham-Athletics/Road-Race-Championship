@@ -66,8 +66,8 @@ class Athlete:
             
 
     @property
-    def nominated_races(self)->list[RaceEntry]:
-        return [race for race in self.races if race.is_nominated]
+    def club_races(self)->list[RaceEntry]:
+        return [race for race in self.races if race.is_club]
     
     @property
     def _5k_races(self)->list[RaceEntry]:
@@ -112,14 +112,15 @@ class Athlete:
         return sum(race.total_score for race in self.counting_races)
     
     def update_scores_lists(self):
-        races_by_score = sorted(self.nominated_races, key=lambda race:race.total_score, reverse=True)
-        
+        #Set the best counting of the combined 5k or marathon as the first counting
+        #race then add the worse of the two to the list of club races, then sort
+        #these by descending score
         self.counting_races = [self.required_races[0]]
-        for race in races_by_score[:TOTAL_RACES-1]:
-            if race.total_score > self.required_races[1].total_score:
-                self.counting_races.append(race)
-
-        if len(self.counting_races) < TOTAL_RACES:
-            self.counting_races.append(self.required_races[1])
-
+        races_by_score = sorted(
+            self.club_races + [self.required_races[1]], key=lambda race:race.total_score, reverse=True)
+        
+        #Add up to the allowed number of races to the counters
+        self.counting_races += races_by_score[:TOTAL_RACES-1]
+        
+        #Remove dummy entries for the 5k or marathon (which have no name)
         self.counting_races = [race for race in self.counting_races if race.race_name]

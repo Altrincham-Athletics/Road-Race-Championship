@@ -41,7 +41,7 @@ class Race:
 
 
     def load_race(self, athletes:dict[str,Athlete]):
-        race_athletes = np.loadtxt(self.race_path, delimiter=',', dtype=str)
+        race_athletes = np.loadtxt(self.race_path, delimiter=',', dtype=str).reshape((-1,2))
         self.athletes = []
         for name, race_time in race_athletes:
             try:

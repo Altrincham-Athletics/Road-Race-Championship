@@ -68,7 +68,7 @@ class AthletePage:
             f'Category position: {rank_str(matched_category_athletes)}'], file=file_id)
 
             hp.html_h('Club races', 2, file=file_id)
-            print_race_list(athlete.nominated_races, file_id)
+            print_race_list(athlete.club_races, file_id)
 
             hp.html_h('5k races', 2, file=file_id)
             print_race_list(athlete._5k_races, file_id)
