@@ -40,20 +40,22 @@ class RaceProcessor:
         race_details = np.loadtxt(self.race_list_path, delimiter=',', dtype=str, skiprows=1)
 
         self.races = {}
-        for name, distance, race_date, is_5k_str, is_marathon_str, filepath in race_details:
+        for name, distance, race_date_str, is_5k_str, is_marathon_str, filepath in race_details:
             
             is_5k = bool(int(is_5k_str))
             is_marathon = bool(int(is_marathon_str))
+            race_date = date_from_str(race_date_str)
             race = Race(
                 name=name,
-                race_date=date_from_str(race_date), 
+                race_date=race_date, 
                 race_path=Path(filepath), 
                 distance=distance_in_kms(distance), 
                 is_5k=is_5k, 
                 is_marathon=is_marathon)
-            race.load_race(self.athletes)
-            if not is_5k and not is_marathon:
-                race.assign_scores()
+            if race.in_past:
+                race.load_race(self.athletes)
+                if not is_5k and not is_marathon:
+                    race.assign_scores()
 
             self.races[name] = race
             

@@ -22,11 +22,13 @@ class IndexPage:
     def print_race_summary(races:Collection[Race], combined_5k:Race, combined_marathon:Race, file_id=None):
         
         club_races = [race for race in races if not (race.is_5k or race.is_marathon)]
-        club_race_list = [f'{hp.html_link(race.name, race.summary_page)}, {date_to_str(race.race_date)}' 
-                   for race in club_races]
-        club_race_list.append(hp.html_link('Combined 5K', combined_5k.summary_page))
-        club_race_list.append(hp.html_link('Combined marathon', combined_marathon.summary_page))
-
+        club_race_list = []
+        for race in club_races:
+             if race.in_past:
+                  club_race_list.append(f'{race.name}, {date_to_str(race.race_date)} - {hp.html_link("results", race.summary_page)}')
+             else:
+                  club_race_list.append(f'{race.name}, {date_to_str(race.race_date)} - {hp.html_link("entries", race.race_path)}')
+        
         hp.html_h('Club Races', 2, file=file_id)
         hp.html_list(club_race_list, file=file_id)
 
@@ -34,7 +36,6 @@ class IndexPage:
             hp.html_link('5K leaderboard', combined_5k.summary_page),
             hp.html_link('Marathon leaderboard', combined_marathon.summary_page)
         ]
-
         hp.html_h('Combined Races', 2, file=file_id)
         hp.html_list(combined_races, file=file_id)
 

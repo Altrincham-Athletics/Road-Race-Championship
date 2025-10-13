@@ -30,6 +30,9 @@ def html_list(items:list, file):
 def html_h(header:str, level:int, file):
     print(f'<h{level}>{header}</h{level}>', file=file)
 
+def html_p(text:str, file):
+    print(f'<p>{text}</p>', file=file)
+
 def html_link(show_str:str, link:Path)->str:
     web_link = link.as_posix().replace('docs/', '')
     return f'<a href="{web_link}">{show_str}</a>'

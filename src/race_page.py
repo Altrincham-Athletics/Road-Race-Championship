@@ -52,9 +52,12 @@ class RacePage:
         with race.summary_page.open('wt') as file_id:
             hp.html_header(race.name, '../css/styles.css', file_id)
             hp.html_h(f'{race.name}, {date_to_str(race.race_date)}', 1, file=file_id)
-            hp.html_list([f'Number of Altrincham runners: {len(race.athletes)}'], file=file_id)
-            print_athlete_list(race.athletes, file_id)
-            hp.html_list([hp.html_link('Home', Path('../index.html'))], file=file_id)
+            if race.in_past:
+                hp.html_list([f'Number of Altrincham runners: {len(race.athletes)}'], file=file_id)
+                print_athlete_list(race.athletes, file_id)
+            else:
+                hp.html_p(f"Online entries available {hp.html_link('here', race.race_path)}", file=file_id)
+            hp.html_p(hp.html_link('<br><br>Home', Path('../index.html')), file=file_id)
             hp.html_footer(file_id)
 
     @staticmethod
@@ -100,5 +103,5 @@ class RacePage:
             hp.html_header(f'Combined best {race_str}', '../css/styles.css', file_id)
             hp.html_h(f'Combined best {race_str}, June 2025 - May 2026', 1, file=file_id)
             print_athlete_list(race.athletes, file_id)
-            hp.html_list([hp.html_link('Home', Path('../index.html'))], file=file_id)
+            hp.html_p(hp.html_link('<br><br>Home', Path('../index.html')), file=file_id)
             hp.html_footer(file_id)

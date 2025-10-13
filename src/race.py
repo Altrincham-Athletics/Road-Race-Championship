@@ -70,3 +70,7 @@ class Race:
         races_dir = Path() / 'docs' / 'races'
         race_name = self.name.replace(' ', '-')
         return races_dir / f'{race_name.lower()}_summary.html'
+    
+    @property
+    def in_past(self)->bool:
+        return self.race_date <= date.today()

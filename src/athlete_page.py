@@ -78,5 +78,5 @@ class AthletePage:
 
             hp.html_h('Marathons', 2, file=file_id)
             print_race_list(athlete.marathons, file_id)
-            hp.html_list([hp.html_link('Home', Path('../index.html'))], file=file_id)
+            hp.html_p(hp.html_link('<br><br>Home', Path('../index.html')), file=file_id)
             hp.html_footer(file_id)
