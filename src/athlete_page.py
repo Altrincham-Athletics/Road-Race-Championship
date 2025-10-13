@@ -27,12 +27,15 @@ class AthletePage:
             return f'{rank} out of {total}'
         
         def print_race_headers(file_id):
-            hp.html_start_table(['Race', 'Date', 'Time', 'Age %', 'Time score', 'Age % score', 'Total score'], file_id)
+            caption = "* denotes race contributes to athlete's total score"
+            hp.html_start_table(['Race', 'Date', 'Time', 'Age %', 'Time score', 'Age % score', 'Total score'],
+                                file_id, caption=caption)
 
         def print_race_summary(race_entry:RaceEntry, file_id):
             race = all_races[race_entry.race_name]
+            counter = '*' if race_entry in athlete.counting_races else ''
             col_values = [
-                hp.html_link(race_entry.race_name, Path('..')/race.summary_page),
+                hp.html_link(race_entry.race_name+counter, Path('..')/race.summary_page),
                 date_to_str(race_entry.race_date),
                 secs_to_time_str(race_entry.time),
                 f'{race_entry.age_pct:3.2f}',

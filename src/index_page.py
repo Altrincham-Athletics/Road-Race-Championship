@@ -30,6 +30,14 @@ class IndexPage:
         hp.html_h('Club Races', 2, file=file_id)
         hp.html_list(club_race_list, file=file_id)
 
+        combined_races = [
+            hp.html_link('5K leaderboard', combined_5k.summary_page),
+            hp.html_link('Marathon leaderboard', combined_marathon.summary_page)
+        ]
+
+        hp.html_h('Combined Races', 2, file=file_id)
+        hp.html_list(combined_races, file=file_id)
+
     @staticmethod
     def print_overall_table(all_athletes:dict[str,Athlete], file_id=None):
         

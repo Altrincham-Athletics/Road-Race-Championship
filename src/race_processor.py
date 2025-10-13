@@ -61,7 +61,7 @@ class RaceProcessor:
     def make_combined_5k(self):
         athletes = [athlete.best_5k for athlete in self.athletes.values() if athlete.best_5k is not None]
         self.combined_5k = Race(
-            name='Combined 5k', 
+            name='Combined 5k leaderboard', 
             race_date=date.today(), 
             race_path=None, #type: ignore
             distance=5.0,
@@ -73,7 +73,7 @@ class RaceProcessor:
     def make_combined_marathon(self):
         athletes = [athlete.best_marathon for athlete in self.athletes.values() if athlete.best_marathon is not None]
         self.combined_marathon = Race(
-            name='Combined marathon', 
+            name='Combined marathon leaderboard', 
             race_date=date.today(), 
             race_path=None, #type: ignore
             distance=MARATHON_KM,
