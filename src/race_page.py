@@ -15,7 +15,7 @@ class RacePage:
         def print_race_headers(file_id):
             headers = ['Athlete', 'Gender', 'Category', 'Time', 'Age %']
             if not (race.is_5k or race.is_marathon):
-                headers += ['Time score', 'Age % score', 'Total score']
+                headers += ['Time score', 'Age % score', 'Race score']
             caption = "* denotes race contributes to athlete's total score"
             hp.html_start_table(
                 headers, file=file_id, caption=caption)
@@ -66,7 +66,7 @@ class RacePage:
         def print_race_headers(file_id):
             caption = "* denotes race contributes to athlete's total score"
             hp.html_start_table(
-                ['Athlete', 'Gender', 'Category', 'Race', 'Date', 'Time', 'Age %', 'Time score', 'Age % score', 'Total score'],
+                ['Athlete', 'Gender', 'Category', 'Race', 'Date', 'Time', 'Age %', 'Time score', 'Age % score', 'Race score'],
                 file=file_id, caption=caption)
 
         def print_race_summary(race_entry:RaceEntry, file_id):

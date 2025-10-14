@@ -91,7 +91,9 @@ class RaceProcessor:
     def print_tables(self):
         for athlete in self.athletes.values():
             if athlete.total_score:                
-                AthletePage.print_athlete_page(athlete, self.athletes, self.races)
+                AthletePage.print_athlete_page(
+                    athlete, self.athletes, self.races,
+                    self.combined_5k.summary_page, self.combined_marathon.summary_page)
 
         for race in self.races.values():
             RacePage.print_race_page(race, self.athletes)
