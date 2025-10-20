@@ -54,6 +54,5 @@ def html_header(title:str, css, file_id):
 
 def html_footer(file_id):
     print('', file=file_id)
-    print('  <script src="/docs/scripts/filters.js"></script>', file=file_id)
     print('</body>', file=file_id)
     print('</html>', file=file_id)
