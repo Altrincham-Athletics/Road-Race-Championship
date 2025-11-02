@@ -16,7 +16,7 @@ class IndexPage:
             hp.html_header('ADAC Road Race Championship', 'css/styles.css', file_id)
             IndexPage.print_overall_table(all_athletes, file_id)
             IndexPage.print_race_summary(races, combined_5k, combined_marathon, file_id)
-            hp.html_footer(file_id)
+            hp.html_footer(file_id, 'scripts/filters.js')
     
     @staticmethod
     def print_race_summary(races:Collection[Race], combined_5k:Race, combined_marathon:Race, file_id=None):
@@ -44,7 +44,7 @@ class IndexPage:
         
         def print_table_headers():
             hp.html_start_table(
-                ['Athlete', 'Gender', 'Category', 'Num. races', 'Time score', 'Age % score', 'Total score'], file=file_id)
+                ['Athlete', 'Gender  ', 'Category  ', 'Num. races', 'Time score', 'Age % score', 'Total score'], file=file_id)
 
         def print_table_row(athlete:Athlete):
             gender = 'M' if athlete.male else 'F'

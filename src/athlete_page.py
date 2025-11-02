@@ -144,4 +144,4 @@ class AthletePage:
                     )
             print_race_list(False, athlete.marathons, file_id)
             hp.html_p(hp.html_link('<br><br>Home', Path('../index.html')), file=file_id)
-            hp.html_footer(file_id)
+            hp.html_footer(file_id, '')

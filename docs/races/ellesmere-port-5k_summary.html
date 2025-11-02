@@ -13,15 +13,16 @@
 <ul>
     <li>Number of Altrincham runners: 5</li>
 </ul>
-<table>
+<table id="sortableTable">
 <caption>* denotes race contributes to athlete's total score</caption>
 <tr>
-    <th>Athlete</th>
-    <th>Gender</th>
-    <th>Category</th>
-    <th>Time</th>
-    <th>Age %</th>
+    <th onclick="sortTable(0)">Athlete</th>
+    <th onclick="sortTable(1)">Gender  </th>
+    <th onclick="sortTable(2)">Category  </th>
+    <th onclick="sortTable(3)">Time</th>
+    <th onclick="sortTable(4)">Age %</th>
 </tr>
+<tbody id="tableBody">
 <tr>
     <td><a href="../athletes/luke-hornby_summary.html">Luke Hornby</a></td>
     <td>M</td>
@@ -57,8 +58,10 @@
     <td>17:16</td>
     <td>81.66</td>
 </tr>
+</tbody>
 </table>
 <p><a href="../index.html"><br><br>Home</a></p>
 
+  <script src="../scripts/filters.js"></script>
 </body>
 </html>

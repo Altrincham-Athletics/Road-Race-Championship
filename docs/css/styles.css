@@ -1311,6 +1311,10 @@ td {
   border: 1px solid #666666;
 }
 
+th {
+    cursor: pointer;
+}
+
 table {
   margin: 0 auto;
   border-collapse: collapse;

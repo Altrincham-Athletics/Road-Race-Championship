@@ -11,16 +11,17 @@
 
 <h1>ADAC Road Race Championship</h1>
 <h2>Overall leaderboard</h2>
-<table>
+<table id="sortableTable">
 <tr>
-    <th>Athlete</th>
-    <th>Gender</th>
-    <th>Category</th>
-    <th>Num. races</th>
-    <th>Time score</th>
-    <th>Age % score</th>
-    <th>Total score</th>
+    <th onclick="sortTable(0)">Athlete</th>
+    <th onclick="sortTable(1)">Gender  </th>
+    <th onclick="sortTable(2)">Category  </th>
+    <th onclick="sortTable(3)">Num. races</th>
+    <th onclick="sortTable(4)">Time score</th>
+    <th onclick="sortTable(5)">Age % score</th>
+    <th onclick="sortTable(6)">Total score</th>
 </tr>
+<tbody id="tableBody">
 <tr>
     <td><a href="athletes/tim-greenald_summary.html">Tim Greenald</a></td>
     <td>M</td>
@@ -624,6 +625,7 @@
     <td>0</td>
     <td>0</td>
 </tr>
+</tbody>
 </table>
 <h2>Club Races</h2>
 <ul>
@@ -646,5 +648,6 @@
     <li><a href="races/combined-marathon-leaderboard_summary.html">Marathon leaderboard</a></li>
 </ul>
 
+  <script src="scripts/filters.js"></script>
 </body>
 </html>
