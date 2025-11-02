@@ -18,17 +18,18 @@
     <li>Category position: 9 out of 15</li>
 </ul>
 <h2>Club races</h2>
-<table>
+<table id="sortableTable">
 <caption>* denotes race contributes to athlete's total score</caption>
 <tr>
-    <th>Race</th>
-    <th>Date</th>
-    <th>Time</th>
-    <th>Age %</th>
-    <th>Time score</th>
-    <th>Age % score</th>
-    <th>Race score</th>
+    <th onclick="sortTable(0)">Race</th>
+    <th onclick="sortTable(1)">Date</th>
+    <th onclick="sortTable(2)">Time</th>
+    <th onclick="sortTable(3)">Age %</th>
+    <th onclick="sortTable(4)">Time score</th>
+    <th onclick="sortTable(5)">Age % score</th>
+    <th onclick="sortTable(6)">Race score</th>
 </tr>
+<tbody id="tableBody">
 <tr>
     <td><a href="../races/altrincham-10k_summary.html">Altrincham 10k*</a></td>
     <td>07/09/2025</td>
@@ -56,17 +57,19 @@
     <td>13</td>
     <td>40</td>
 </tr>
+</tbody>
 </table>
 <h2>5k races</h2>
 <p>5k races are not scored individually. Instead, your fastest time contributes to the <a href="../races/combined-5k-leaderboard_summary.html">best 5k leaderboard</a>, which is then scored as if it were a single race.</p>
-<table>
+<table id="sortableTable">
 <caption>* denotes race contributes to athlete's total score</caption>
 <tr>
-    <th>Race</th>
-    <th>Date</th>
-    <th>Time</th>
-    <th>Age %</th>
+    <th onclick="sortTable(0)">Race</th>
+    <th onclick="sortTable(1)">Date</th>
+    <th onclick="sortTable(2)">Time</th>
+    <th onclick="sortTable(3)">Age %</th>
 </tr>
+<tbody id="tableBody">
 <tr>
     <td><a href="../races/sale-sizzler-3_summary.html">Sale sizzler 3</a></td>
     <td>18/07/2025</td>
@@ -85,10 +88,12 @@
     <td>18:27</td>
     <td>74.80</td>
 </tr>
+</tbody>
 </table>
 <h2>Marathons</h2>
 None
 <p><a href="../index.html"><br><br>Home</a></p>
 
+  <script src=""></script>
 </body>
 </html>

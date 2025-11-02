@@ -18,17 +18,18 @@
     <li>Category position: 1 out of 21</li>
 </ul>
 <h2>Club races</h2>
-<table>
+<table id="sortableTable">
 <caption>* denotes race contributes to athlete's total score</caption>
 <tr>
-    <th>Race</th>
-    <th>Date</th>
-    <th>Time</th>
-    <th>Age %</th>
-    <th>Time score</th>
-    <th>Age % score</th>
-    <th>Race score</th>
+    <th onclick="sortTable(0)">Race</th>
+    <th onclick="sortTable(1)">Date</th>
+    <th onclick="sortTable(2)">Time</th>
+    <th onclick="sortTable(3)">Age %</th>
+    <th onclick="sortTable(4)">Time score</th>
+    <th onclick="sortTable(5)">Age % score</th>
+    <th onclick="sortTable(6)">Race score</th>
 </tr>
+<tbody id="tableBody">
 <tr>
     <td><a href="../races/wilmslow-summer-10k_summary.html">Wilmslow Summer 10k*</a></td>
     <td>13/07/2025</td>
@@ -56,6 +57,7 @@
     <td>47</td>
     <td>97</td>
 </tr>
+</tbody>
 </table>
 <h2>5k races</h2>
 None
@@ -63,5 +65,6 @@ None
 None
 <p><a href="../index.html"><br><br>Home</a></p>
 
+  <script src=""></script>
 </body>
 </html>

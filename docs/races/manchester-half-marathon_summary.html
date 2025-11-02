@@ -13,18 +13,19 @@
 <ul>
     <li>Number of Altrincham runners: 14</li>
 </ul>
-<table>
+<table id="sortableTable">
 <caption>* denotes race contributes to athlete's total score</caption>
 <tr>
-    <th>Athlete</th>
-    <th>Gender</th>
-    <th>Category</th>
-    <th>Time</th>
-    <th>Age %</th>
-    <th>Time score</th>
-    <th>Age % score</th>
-    <th>Race score</th>
+    <th onclick="sortTable(0)">Athlete</th>
+    <th onclick="sortTable(1)">Gender  </th>
+    <th onclick="sortTable(2)">Category  </th>
+    <th onclick="sortTable(3)">Time</th>
+    <th onclick="sortTable(4)">Age %</th>
+    <th onclick="sortTable(5)">Time score</th>
+    <th onclick="sortTable(6)">Age % score</th>
+    <th onclick="sortTable(7)">Race score</th>
 </tr>
+<tbody id="tableBody">
 <tr>
     <td><a href="../athletes/tom-sullivan_summary.html">Tom Sullivan*</a></td>
     <td>M</td>
@@ -165,8 +166,10 @@
     <td>12</td>
     <td>28</td>
 </tr>
+</tbody>
 </table>
 <p><a href="../index.html"><br><br>Home</a></p>
 
+  <script src="../scripts/filters.js"></script>
 </body>
 </html>

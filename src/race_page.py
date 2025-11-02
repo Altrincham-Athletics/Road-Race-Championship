@@ -13,7 +13,7 @@ class RacePage:
     def print_race_page(race:Race, all_athletes:dict[str,Athlete]):
         
         def print_race_headers(file_id):
-            headers = ['Athlete', 'Gender', 'Category', 'Time', 'Age %']
+            headers = ['Athlete', 'Gender  ', 'Category  ', 'Time', 'Age %']
             if not (race.is_5k or race.is_marathon):
                 headers += ['Time score', 'Age % score', 'Race score']
             caption = "* denotes race contributes to athlete's total score"
@@ -58,7 +58,7 @@ class RacePage:
             else:
                 hp.html_p(f"Online entries available {hp.html_link('here', race.race_path)}", file=file_id)
             hp.html_p(hp.html_link('<br><br>Home', Path('../index.html')), file=file_id)
-            hp.html_footer(file_id)
+            hp.html_footer(file_id, '../scripts/filters.js')
 
     @staticmethod
     def print_combined_race_page(race:Race, all_athletes:dict[str,Athlete], all_races:dict[str,Race]):
@@ -66,7 +66,7 @@ class RacePage:
         def print_race_headers(file_id):
             caption = "* denotes race contributes to athlete's total score"
             hp.html_start_table(
-                ['Athlete', 'Gender', 'Category', 'Race', 'Date', 'Time', 'Age %', 'Time score', 'Age % score', 'Race score'],
+                ['Athlete', 'Gender  ', 'Category  ', 'Race', 'Date', 'Time', 'Age %', 'Time score', 'Age % score', 'Race score'],
                 file=file_id, caption=caption)
 
         def print_race_summary(race_entry:RaceEntry, file_id):
@@ -104,4 +104,4 @@ class RacePage:
             hp.html_h(f'Combined best {race_str}, June 2025 - May 2026', 1, file=file_id)
             print_athlete_list(race.athletes, file_id)
             hp.html_p(hp.html_link('<br><br>Home', Path('../index.html')), file=file_id)
-            hp.html_footer(file_id)
+            hp.html_footer(file_id, '../scripts/filters.js')

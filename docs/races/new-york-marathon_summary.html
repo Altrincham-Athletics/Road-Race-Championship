@@ -13,15 +13,16 @@
 <ul>
     <li>Number of Altrincham runners: 1</li>
 </ul>
-<table>
+<table id="sortableTable">
 <caption>* denotes race contributes to athlete's total score</caption>
 <tr>
-    <th>Athlete</th>
-    <th>Gender</th>
-    <th>Category</th>
-    <th>Time</th>
-    <th>Age %</th>
+    <th onclick="sortTable(0)">Athlete</th>
+    <th onclick="sortTable(1)">Gender  </th>
+    <th onclick="sortTable(2)">Category  </th>
+    <th onclick="sortTable(3)">Time</th>
+    <th onclick="sortTable(4)">Age %</th>
 </tr>
+<tbody id="tableBody">
 <tr>
     <td><a href="../athletes/jo-rosenberg_summary.html">Jo Rosenberg*</a></td>
     <td>F</td>
@@ -29,8 +30,10 @@
     <td>2:56:28</td>
     <td>87.24</td>
 </tr>
+</tbody>
 </table>
 <p><a href="../index.html"><br><br>Home</a></p>
 
+  <script src="../scripts/filters.js"></script>
 </body>
 </html>
