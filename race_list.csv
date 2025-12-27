@@ -5,7 +5,7 @@ Monton 5,5 mi,25/08/2025,0,0,races/monton_5_results.csv
 Altrincham 10k,10 km,07/09/2025,0,0,races/altrincham_10k_results.csv
 Manchester Half Marathon, 21.0975 km,12/10/2025,0,0,races/manchester_half_results.csv
 Wilmslow Festive 10k,10 km,23/11/2025,0,0,races/wilmslow_festive_10k_results.csv
-Stockport 10,10 mi,14/12/2025,0,0,https://stockportharriers.niftyentries.com/Stockport-10-2025
+Stockport 10,10 mi,14/12/2025,0,0,races/stockport_10_results.csv
 Four Villages Half Marathon,21.0975 km,18/01/2026,0,0,https://helsbyrunningclub.niftyentries.com/Four-Villages-Half-Marathon
 Aslager 5,5 mi,01/02/2026,0,0,https://www.alsagerfive.co.uk/
 Hale 10k,10 km,15/02/2026,0,0,https://www.hale10k.com/our-activities/hale10k/
@@ -24,3 +24,4 @@ Chester Marathon,42.195 km,05/10/2025,0,1,races/chester_marathon_results.csv
 Chicago Marathon,42.195 km,12/10/2025,0,1,races/chicago_marathon_results.csv
 Abingdon Marathon,42.195 km,19/10/2025,0,1,races/abingdon_marathon_results.csv
 New York Marathon,42.195 km,02/11/2025,0,1,races/new_york_marathon_results.csv
+Valencia Marathon,42.195 km,07/12/2025,0,1,races/valencia_marathon_results.csv
