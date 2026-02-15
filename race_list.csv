@@ -7,8 +7,8 @@ Manchester Half Marathon, 21.0975 km,12/10/2025,0,0,races/manchester_half_result
 Wilmslow Festive 10k,10 km,23/11/2025,0,0,races/wilmslow_festive_10k_results.csv
 Stockport 10,10 mi,14/12/2025,0,0,races/stockport_10_results.csv
 Four Villages Half Marathon,21.0975 km,18/01/2026,0,0,races/four_villages_half_marathon_results.csv
-Aslager 5,5 mi,01/02/2026,0,0,https://www.alsagerfive.co.uk/
-Hale 10k,10 km,15/02/2026,0,0,https://www.hale10k.com/our-activities/hale10k/
+Aslager 5,5 mi,01/02/2026,0,0,races/alsager5_results.csv
+Hale 10k,10 km,15/02/2026,0,0,races/hale10k_results.csv
 Wilmslow Half Marathon,21.0975 km,22/03/2026,0,0,https://wilmslowrunningfestival.niftyentries.com/Wilmslow-Running-Festival-2026
 Salford 10k CANCELLED,10 km,03/04/2026,0,0,https://www.salfordharriers.co.uk/salford10km
 Alderley Edge 10k,10 km,10/05/2026,0,0,https://www.runnorthwest.co.uk/pages/alderley-edge-10k-2026
@@ -26,3 +26,4 @@ Chicago Marathon,42.195 km,12/10/2025,0,1,races/chicago_marathon_results.csv
 Abingdon Marathon,42.195 km,19/10/2025,0,1,races/abingdon_marathon_results.csv
 New York Marathon,42.195 km,02/11/2025,0,1,races/new_york_marathon_results.csv
 Valencia Marathon,42.195 km,07/12/2025,0,1,races/valencia_marathon_results.csv
+Seville Marathon,42.195 km,15/02/2026,0,1,races/seville_marathon_results.csv
