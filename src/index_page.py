@@ -64,6 +64,6 @@ class IndexPage:
         hp.html_h('ADAC Road Race Championship', 1, file=file_id)
         hp.html_h('Overall leaderboard', 2, file=file_id)
         print_table_headers()
-        for athlete in sorted(all_athletes.values(), key=lambda a:a.total_score, reverse=True):
+        for athlete in sorted(all_athletes.values(), key=lambda a:(a.total_score, not a.male), reverse=True):
             print_table_row(athlete)
         hp.html_end_table(file=file_id)

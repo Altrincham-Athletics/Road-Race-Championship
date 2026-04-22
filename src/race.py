@@ -73,4 +73,4 @@ class Race:
     
     @property
     def in_past(self)->bool:
-        return self.race_date <= date.today()
+        return self.race_date <= date.today() and self.race_path.suffix == '.csv'
