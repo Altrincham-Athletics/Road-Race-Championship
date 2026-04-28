@@ -10,7 +10,7 @@ Post to follow on the overall rankings, as these results have made things *very*
 
 https://altrincham-athletics.github.io/Road-Race-Championship/index.html
 
-Overall, we now have a two-way tie at the top and five athletes all on five races, separated by just 12 points! A healthy score of 44 points from the marathon table brings Michael Berks level with Becky Hansen on 235 points. In another tie just 11 points adrift, Richard Evans' 39 marathon points means he joins Michael Whitham on 224 points, with Ben Walmsley (41 marathon points) just a point behind on 223.
+Following Manchester, in the overall championship table, we now have a two-way tie at the top and five athletes all on five races, separated by just 12 points! A healthy score of 44 points from the marathon table brings Michael Berks level with Becky Hansen on 235 points. In another tie just 11 points adrift, Richard Evans' 39 marathon points means he joins Michael Whitham on 224 points, with Ben Walmsley (41 marathon points) just a point behind on 223.
 
 To say things are set up nicely for the final race at Alderley Edge 10k would be an understatement! Before then, there are one or two other things to watch...
 

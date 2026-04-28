@@ -22,6 +22,7 @@ Ellesmere port 5k,5 km,13/08/2025,1,0,races/ellesmere_port_5k_results.csv
 Mid-Cheshire Summer 5k,5 km,29/08/2025,1,0,races/mid_cheshire_aug_results.csv
 Tameside September 5k,5 km,05/09/2025,1,0,races/tameside_september_5k_results.csv
 Cragg Runner Sprint 5k,5 km,08/11/2025,1,0,races/cragg_runner_sprint_5k_results.csv
+Oulton Park March 5k,5 km,22/03/2026,1,0,races/oulton_park_mar_5k_results.csv
 Chester Marathon,42.195 km,05/10/2025,0,1,races/chester_marathon_results.csv
 Chicago Marathon,42.195 km,12/10/2025,0,1,races/chicago_marathon_results.csv
 Abingdon Marathon,42.195 km,19/10/2025,0,1,races/abingdon_marathon_results.csv
@@ -29,3 +30,4 @@ New York Marathon,42.195 km,02/11/2025,0,1,races/new_york_marathon_results.csv
 Valencia Marathon,42.195 km,07/12/2025,0,1,races/valencia_marathon_results.csv
 Seville Marathon,42.195 km,15/02/2026,0,1,races/seville_marathon_results.csv
 Manchester Marathon,42.195 km,19/04/2026,0,1,races/manchester_marathon_results.csv
+London Marathon,42.195 km,26/04/2026,0,1,races/london_marathon_results.csv
