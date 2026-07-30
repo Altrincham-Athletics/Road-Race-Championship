@@ -21,7 +21,7 @@ with open(output_path, 'wt') as f:
             #Deal with custom overrides
             if name == 'Andy Pickford':
                 name = 'Andrew Pickford'
-            if name == 'Rich Hill':
+            if name == 'Richard Hill':
                 name = 'Richard Hill'
             elif name == 'Kieran McGlade':
                 continue

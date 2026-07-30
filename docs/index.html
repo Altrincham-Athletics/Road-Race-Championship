@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>ADAC Road Race Championship</title>
+  <link rel="stylesheet" type="text/css" href="css/styles.css">
+</head>
+
+<body>
+
+<h1>ADAC Road Race Championship</h1>
+<h2>Overall leaderboard</h2>
+<table id="sortableTable">
+<tr>
+    <th onclick="sortTable(0)">Athlete</th>
+    <th onclick="sortTable(1)">Gender  </th>
+    <th onclick="sortTable(2)">Category  </th>
+    <th onclick="sortTable(3)">Num. races</th>
+    <th onclick="sortTable(4)">Time score</th>
+    <th onclick="sortTable(5)">Age % score</th>
+    <th onclick="sortTable(6)">Total score</th>
+</tr>
+<tbody id="tableBody">
+<tr>
+    <td><a href="athletes/richard-johnson_summary.html">Richard Johnson</a></td>
+    <td>M</td>
+    <td>V60</td>
+    <td>3</td>
+    <td>66</td>
+    <td>74</td>
+    <td>140</td>
+</tr>
+<tr>
+    <td><a href="athletes/paul-abraham_summary.html">Paul Abraham</a></td>
+    <td>M</td>
+    <td>V50</td>
+    <td>3</td>
+    <td>66</td>
+    <td>65</td>
+    <td>131</td>
+</tr>
+<tr>
+    <td><a href="athletes/beverley-jackson_summary.html">Beverley Jackson</a></td>
+    <td>F</td>
+    <td>V60</td>
+    <td>3</td>
+    <td>63</td>
+    <td>59</td>
+    <td>122</td>
+</tr>
+<tr>
+    <td><a href="athletes/james-pattison_summary.html">James Pattison</a></td>
+    <td>M</td>
+    <td>V45</td>
+    <td>3</td>
+    <td>62</td>
+    <td>53</td>
+    <td>115</td>
+</tr>
+<tr>
+    <td><a href="athletes/becky-hansen_summary.html">Becky Hansen</a></td>
+    <td>F</td>
+    <td>V35</td>
+    <td>2</td>
+    <td>50</td>
+    <td>43</td>
+    <td>93</td>
+</tr>
+<tr>
+    <td><a href="athletes/rich-evans_summary.html">Rich Evans</a></td>
+    <td>M</td>
+    <td>V60</td>
+    <td>2</td>
+    <td>41</td>
+    <td>49</td>
+    <td>90</td>
+</tr>
+<tr>
+    <td><a href="athletes/luke-hornby_summary.html">Luke Hornby</a></td>
+    <td>M</td>
+    <td>Senior</td>
+    <td>2</td>
+    <td>50</td>
+    <td>37</td>
+    <td>87</td>
+</tr>
+<tr>
+    <td><a href="athletes/andrew-pickford_summary.html">Andrew Pickford</a></td>
+    <td>M</td>
+    <td>V50</td>
+    <td>2</td>
+    <td>40</td>
+    <td>47</td>
+    <td>87</td>
+</tr>
+<tr>
+    <td><a href="athletes/jack-burbidge_summary.html">Jack Burbidge</a></td>
+    <td>M</td>
+    <td>V35</td>
+    <td>2</td>
+    <td>47</td>
+    <td>34</td>
+    <td>81</td>
+</tr>
+<tr>
+    <td><a href="athletes/sarah-king_summary.html">Sarah King</a></td>
+    <td>F</td>
+    <td>V40</td>
+    <td>2</td>
+    <td>45</td>
+    <td>30</td>
+    <td>75</td>
+</tr>
+<tr>
+    <td><a href="athletes/alana-dunn_summary.html">Alana Dunn</a></td>
+    <td>F</td>
+    <td>Senior</td>
+    <td>2</td>
+    <td>45</td>
+    <td>24</td>
+    <td>69</td>
+</tr>
+<tr>
+    <td><a href="athletes/kate-stuart_summary.html">Kate Stuart</a></td>
+    <td>F</td>
+    <td>Senior</td>
+    <td>2</td>
+    <td>44</td>
+    <td>20</td>
+    <td>64</td>
+</tr>
+<tr>
+    <td><a href="athletes/tom-brown_summary.html">Tom Brown</a></td>
+    <td>M</td>
+    <td>Senior</td>
+    <td>2</td>
+    <td>41</td>
+    <td>23</td>
+    <td>64</td>
+</tr>
+<tr>
+    <td><a href="athletes/ruth-tidd_summary.html">Ruth Tidd</a></td>
+    <td>F</td>
+    <td>V40</td>
+    <td>2</td>
+    <td>42</td>
+    <td>20</td>
+    <td>62</td>
+</tr>
+<tr>
+    <td><a href="athletes/matt-page_summary.html">Matt Page</a></td>
+    <td>M</td>
+    <td>V50</td>
+    <td>2</td>
+    <td>30</td>
+    <td>21</td>
+    <td>51</td>
+</tr>
+<tr>
+    <td><a href="athletes/jo-rosenberg_summary.html">Jo Rosenberg</a></td>
+    <td>F</td>
+    <td>V50</td>
+    <td>1</td>
+    <td>24</td>
+    <td>23</td>
+    <td>47</td>
+</tr>
+<tr>
+    <td><a href="athletes/michael-berks_summary.html">Michael Berks</a></td>
+    <td>M</td>
+    <td>V40</td>
+    <td>1</td>
+    <td>24</td>
+    <td>21</td>
+    <td>45</td>
+</tr>
+<tr>
+    <td><a href="athletes/tim-greenald_summary.html">Tim Greenald</a></td>
+    <td>M</td>
+    <td>V50</td>
+    <td>1</td>
+    <td>22</td>
+    <td>23</td>
+    <td>45</td>
+</tr>
+<tr>
+    <td><a href="athletes/ben-walmsley_summary.html">Ben Walmsley</a></td>
+    <td>M</td>
+    <td>V40</td>
+    <td>1</td>
+    <td>23</td>
+    <td>20</td>
+    <td>43</td>
+</tr>
+<tr>
+    <td><a href="athletes/lora-blann_summary.html">Lora Blann</a></td>
+    <td>F</td>
+    <td>V45</td>
+    <td>1</td>
+    <td>23</td>
+    <td>17</td>
+    <td>40</td>
+</tr>
+<tr>
+    <td><a href="athletes/al-de-sousa-costain_summary.html">Al de Sousa Costain</a></td>
+    <td>M</td>
+    <td>V35</td>
+    <td>1</td>
+    <td>20</td>
+    <td>19</td>
+    <td>39</td>
+</tr>
+<tr>
+    <td><a href="athletes/darren-martin_summary.html">Darren Martin</a></td>
+    <td>M</td>
+    <td>V55</td>
+    <td>1</td>
+    <td>20</td>
+    <td>16</td>
+    <td>36</td>
+</tr>
+<tr>
+    <td><a href="athletes/phil-raffo_summary.html">Phil Raffo</a></td>
+    <td>M</td>
+    <td>V40</td>
+    <td>1</td>
+    <td>19</td>
+    <td>14</td>
+    <td>33</td>
+</tr>
+<tr>
+    <td><a href="athletes/damian-utton_summary.html">Damian Utton</a></td>
+    <td>M</td>
+    <td>V60</td>
+    <td>2</td>
+    <td>19</td>
+    <td>14</td>
+    <td>33</td>
+</tr>
+<tr>
+    <td><a href="athletes/hugh-mckenna_summary.html">Hugh McKenna</a></td>
+    <td>M</td>
+    <td>V75</td>
+    <td>2</td>
+    <td>18</td>
+    <td>13</td>
+    <td>31</td>
+</tr>
+<tr>
+    <td><a href="athletes/sam-garrett_summary.html">Sam Garrett</a></td>
+    <td>M</td>
+    <td>Senior</td>
+    <td>1</td>
+    <td>21</td>
+    <td>9</td>
+    <td>30</td>
+</tr>
+<tr>
+    <td><a href="athletes/richard-evans_summary.html">Richard Evans</a></td>
+    <td>M</td>
+    <td>V60</td>
+    <td>1</td>
+    <td>11</td>
+    <td>18</td>
+    <td>29</td>
+</tr>
+<tr>
+    <td><a href="athletes/david-ainsworth_summary.html">David Ainsworth</a></td>
+    <td>M</td>
+    <td>V65</td>
+    <td>1</td>
+    <td>6</td>
+    <td>16</td>
+    <td>22</td>
+</tr>
+<tr>
+    <td><a href="athletes/craig-foster_summary.html">Craig Foster</a></td>
+    <td>M</td>
+    <td>V40</td>
+    <td>1</td>
+    <td>13</td>
+    <td>7</td>
+    <td>20</td>
+</tr>
+<tr>
+    <td><a href="athletes/alice-welch_summary.html">Alice Welch</a></td>
+    <td>F</td>
+    <td>V45</td>
+    <td>1</td>
+    <td>18</td>
+    <td>0</td>
+    <td>18</td>
+</tr>
+<tr>
+    <td><a href="athletes/katie-livermore_summary.html">Katie Livermore</a></td>
+    <td>F</td>
+    <td>Senior</td>
+    <td>1</td>
+    <td>16</td>
+    <td>0</td>
+    <td>16</td>
+</tr>
+<tr>
+    <td><a href="athletes/jayne-holme_summary.html">Jayne Holme</a></td>
+    <td>F</td>
+    <td>V45</td>
+    <td>1</td>
+    <td>15</td>
+    <td>0</td>
+    <td>15</td>
+</tr>
+<tr>
+    <td><a href="athletes/nick-bugler_summary.html">Nick Bugler</a></td>
+    <td>M</td>
+    <td>V35</td>
+    <td>1</td>
+    <td>14</td>
+    <td>1</td>
+    <td>15</td>
+</tr>
+<tr>
+    <td><a href="athletes/annabel-dickinson_summary.html">Annabel Dickinson</a></td>
+    <td>F</td>
+    <td>Senior</td>
+    <td>1</td>
+    <td>14</td>
+    <td>0</td>
+    <td>14</td>
+</tr>
+<tr>
+    <td><a href="athletes/matthew-allen_summary.html">Matthew Allen</a></td>
+    <td>M</td>
+    <td>V40</td>
+    <td>1</td>
+    <td>12</td>
+    <td>0</td>
+    <td>12</td>
+</tr>
+<tr>
+    <td><a href="athletes/mark-newton_summary.html">Mark Newton</a></td>
+    <td>M</td>
+    <td>V55</td>
+    <td>1</td>
+    <td>7</td>
+    <td>5</td>
+    <td>12</td>
+</tr>
+<tr>
+    <td><a href="athletes/dan-martell_summary.html">Dan Martell</a></td>
+    <td>M</td>
+    <td>V35</td>
+    <td>1</td>
+    <td>10</td>
+    <td>0</td>
+    <td>10</td>
+</tr>
+<tr>
+    <td><a href="athletes/lorenzo-giove_summary.html">Lorenzo Giove</a></td>
+    <td>M</td>
+    <td>V45</td>
+    <td>1</td>
+    <td>9</td>
+    <td>0</td>
+    <td>9</td>
+</tr>
+<tr>
+    <td><a href="athletes/peter-waterson_summary.html">Peter Waterson</a></td>
+    <td>M</td>
+    <td>V55</td>
+    <td>1</td>
+    <td>5</td>
+    <td>4</td>
+    <td>9</td>
+</tr>
+<tr>
+    <td><a href="athletes/john-noblett_summary.html">John Noblett</a></td>
+    <td>M</td>
+    <td>V60</td>
+    <td>1</td>
+    <td>3</td>
+    <td>2</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td><a href="athletes/tom-moseley_summary.html">Tom Moseley</a></td>
+    <td>M</td>
+    <td>V45</td>
+    <td>1</td>
+    <td>4</td>
+    <td>0</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td><a href="athletes/liam-griffin-jowett_summary.html">Liam Griffin-Jowett</a></td>
+    <td>M</td>
+    <td>V35</td>
+    <td>1</td>
+    <td>2</td>
+    <td>0</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td><a href="athletes/duncan-dickinson_summary.html">Duncan Dickinson</a></td>
+    <td>M</td>
+    <td>V60</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>
+</tr>
+<tr>
+    <td><a href="athletes/luke-baumber_summary.html">Luke Baumber</a></td>
+    <td>M</td>
+    <td>Senior</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+</tr>
+<tr>
+    <td><a href="athletes/mike-duncombe_summary.html">Mike Duncombe</a></td>
+    <td>M</td>
+    <td>V70</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+</tr>
+<tr>
+    <td><a href="athletes/richard-hill_summary.html">Richard Hill</a></td>
+    <td>M</td>
+    <td>V45</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+</tr>
+<tr>
+    <td><a href="athletes/david-vaughan_summary.html">David Vaughan</a></td>
+    <td>M</td>
+    <td>V45</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+</tr>
+</tbody>
+</table>
+<h2>Club Races</h2>
+<ul>
+    <li>Ron Hill Hyde 7, 21/06/2026 - <a href="races/ron-hill-hyde-7_summary.html">results</a></li>
+    <li>Wilmslow Summer 10k, 12/07/2026 - <a href="races/wilmslow-summer-10k_summary.html">results</a></li>
+    <li>Wizard 5, 28/07/2026 - <a href="races/wizard-5_summary.html">results</a></li>
+    <li>Monton 5, 31/08/2026 - <a href="https://sportsfeet.niftyentries.com/Monton-5Miler-2026">entries</a></li>
+    <li>Altrincham 10k, 06/09/2026 - <a href="https://altrincham10k.com">entries</a></li>
+    <li>Manchester Half Marathon, 04/10/2026 - <a href="https://www.manchesterhalfmarathon.com/home">entries</a></li>
+    <li>Wilmslow Festive 10k, 22/11/2026 - <a href="https://www.runnorthwest.co.uk/pages/wilmslow-festive-10k-2026">entries</a></li>
+    <li>Stockport 10, 13/12/2026 - <a href="https://stk10.co.uk">entries</a></li>
+    <li>Hale 10k, 15/02/2027 - <a href="https://www.hale10k.com">entries</a></li>
+</ul>
+<h2>Combined Races</h2>
+<ul>
+    <li><a href="races/combined-5k-leaderboard_summary.html">5K leaderboard</a></li>
+    <li><a href="races/combined-marathon-leaderboard_summary.html">Marathon leaderboard</a></li>
+</ul>
+
+  <script src="scripts/filters.js"></script>
+</body>
+</html>

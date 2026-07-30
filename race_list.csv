@@ -1,34 +1,37 @@
 Race, Distance, Date, 5k, Marathon, Datafile
-Wilmslow Summer 10k,10 km,13/07/2025,0,0,races/wilmslow_summer_10k_results.csv
-Wizard 5,7.63 km,29/07/2025,0,0,races/wizard_5_results.csv
-Monton 5,5 mi,25/08/2025,0,0,races/monton_5_results.csv
-Altrincham 10k,10 km,07/09/2025,0,0,races/altrincham_10k_results.csv
-Manchester Half Marathon, 21.0975 km,12/10/2025,0,0,races/manchester_half_results.csv
-Wilmslow Festive 10k,10 km,23/11/2025,0,0,races/wilmslow_festive_10k_results.csv
-Stockport 10,10 mi,14/12/2025,0,0,races/stockport_10_results.csv
-Four Villages Half Marathon,21.0975 km,18/01/2026,0,0,races/four_villages_half_marathon_results.csv
-Aslager 5,5 mi,01/02/2026,0,0,races/alsager5_results.csv
-Hale 10k,10 km,15/02/2026,0,0,races/hale10k_results.csv
-Wilmslow Half Marathon,21.0975 km,22/03/2026,0,0,races/wilmslow_half_marathon_results.csv
-Salford 10k CANCELLED,10 km,03/04/2026,0,0,https://www.salfordharriers.co.uk/salford10km
-Alderley Edge 10k,10 km,10/05/2026,0,0,races/alderley_edge10k_results.csv
-#Mid-Cheshire Spring 5k,5 km,23/05/2025,1,0,races/mid_cheshire_may_results.csv
-Dunham Massey 5k June,5 km,05/06/2025,1,0,races/dunham_massey_5k_june_results.csv
-Sale sizzler 1,5 km,19/06/2025,1,0,races/sale_sizzler1_results.csv
-Sale sizzler 2,5 km,04/07/2025,1,0,races/sale_sizzler2_results.csv
-Sale sizzler 3,5 km,18/07/2025,1,0,races/sale_sizzler3_results.csv
-Sale sizzler 4,5 km,31/07/2025,1,0,races/sale_sizzler4_results.csv
-Ellesmere port 5k,5 km,13/08/2025,1,0,races/ellesmere_port_5k_results.csv
-Mid-Cheshire Summer 5k,5 km,29/08/2025,1,0,races/mid_cheshire_aug_results.csv
-Tameside September 5k,5 km,05/09/2025,1,0,races/tameside_september_5k_results.csv
-Cragg Runner Sprint 5k,5 km,08/11/2025,1,0,races/cragg_runner_sprint_5k_results.csv
-Oulton Park March 5k,5 km,22/03/2026,1,0,races/oulton_park_mar_5k_results.csv
-Christleton 5k,5 km,08/05/2026,1,0,races/christleton5k_results.csv
-Chester Marathon,42.195 km,05/10/2025,0,1,races/chester_marathon_results.csv
-Chicago Marathon,42.195 km,12/10/2025,0,1,races/chicago_marathon_results.csv
-Abingdon Marathon,42.195 km,19/10/2025,0,1,races/abingdon_marathon_results.csv
-New York Marathon,42.195 km,02/11/2025,0,1,races/new_york_marathon_results.csv
-Valencia Marathon,42.195 km,07/12/2025,0,1,races/valencia_marathon_results.csv
-Seville Marathon,42.195 km,15/02/2026,0,1,races/seville_marathon_results.csv
-Manchester Marathon,42.195 km,19/04/2026,0,1,races/manchester_marathon_results.csv
-London Marathon,42.195 km,26/04/2026,0,1,races/london_marathon_results.csv
+Ron Hill Hyde 7,7 mi,21/06/2026,0,0,races/ron_hill_hyde_7_results.csv
+Wilmslow Summer 10k,10 km,12/07/2026,0,0,races/wilmslow_summer_10k_results.csv
+Wizard 5,7.63 km,28/07/2026,0,0,races/wizard_5_results.csv
+Monton 5,5 mi,31/08/2026,0,0,https://sportsfeet.niftyentries.com/Monton-5Miler-2026
+Altrincham 10k,10 km,06/09/2026,0,0,https://altrincham10k.com/
+Manchester Half Marathon, 21.0975 km,04/10/2026,0,0,https://www.manchesterhalfmarathon.com/home/
+Wilmslow Festive 10k,10 km,22/11/2026,0,0,https://www.runnorthwest.co.uk/pages/wilmslow-festive-10k-2026
+Stockport 10,10 mi,13/12/2026,0,0,https://stk10.co.uk/
+#Four Villages Half Marathon,21.0975 km,18/01/2027,0,0,races/four_villages_half_marathon_results.csv
+#Aslager 5,5 mi,01/02/2027,0,0,races/alsager5_results.csv
+Hale 10k,10 km,15/02/2027,0,0,https://www.hale10k.com/
+#Wilmslow Half Marathon,21.0975 km,22/03/2027,0,0,races/wilmslow_half_marathon_results.csv
+#Salford 10k CANCELLED,10 km,03/04/2027,0,0,https://www.salfordharriers.co.uk/salford10km
+#Alderley Edge 10k,10 km,10/05/2027,0,0,races/alderley_edge10k_results.csv
+Mid-Cheshire Spring 5k,5 km,23/05/2026,1,0,races/mid_cheshire_may_results.csv
+Dunham Massey 5k May,5 km,21/05/2026,1,0,races/dunham_massey_5k_may_results.csv
+Dunham Massey 5k June,5 km,04/06/2026,1,0,races/dunham_massey_5k_june_results.csv
+Sale sizzler 1,5 km,19/06/2026,1,0,races/sale_sizzler1_results.csv
+Sale sizzler 2,5 km,04/07/2026,1,0,races/sale_sizzler2_results.csv
+Sale sizzler 3,5 km,18/07/2026,1,0,races/sale_sizzler3_results.csv
+Sale sizzler 4,5 km,31/07/2026,1,0,races/sale_sizzler4_results.csv
+#Ellesmere port 5k,5 km,13/08/2026,1,0,races/ellesmere_port_5k_results.csv
+#Mid-Cheshire Summer 5k,5 km,29/08/2026,1,0,races/mid_cheshire_aug_results.csv
+#Tameside September 5k,5 km,05/09/2026,1,0,races/tameside_september_5k_results.csv
+#Cragg Runner Sprint 5k,5 km,08/11/2026,1,0,races/cragg_runner_sprint_5k_results.csv
+#Oulton Park March 5k,5 km,22/03/2027,1,0,races/oulton_park_mar_5k_results.csv
+#Christleton 5k,5 km,08/05/2027,1,0,races/christleton5k_results.csv
+#Chester Marathon,42.195 km,05/10/2026,0,1,races/chester_marathon_results.csv
+#Chicago Marathon,42.195 km,12/10/2026,0,1,races/chicago_marathon_results.csv
+#Abingdon Marathon,42.195 km,19/10/2026,0,1,races/abingdon_marathon_results.csv
+#New York Marathon,42.195 km,02/11/2026,0,1,races/new_york_marathon_results.csv
+#Valencia Marathon,42.195 km,07/12/2026,0,1,races/valencia_marathon_results.csv
+#Seville Marathon,42.195 km,15/02/2027,0,1,races/seville_marathon_results.csv
+#Manchester Marathon,42.195 km,19/04/2027,0,1,races/manchester_marathon_results.csv
+#London Marathon,42.195 km,26/04/2027,0,1,races/london_marathon_results.csv
+
