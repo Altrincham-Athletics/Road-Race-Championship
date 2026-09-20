@@ -1,22 +1,59 @@
 import sys
-import numpy as np
 
 input_path = sys.argv[1]
 output_path = sys.argv[2]
-club_col = int(sys.argv[3])
+if len(sys.argv) > 3:
+    encoding = sys.argv[3]
+else:
+    encoding = 'UTF-8'
 
-all_data = np.loadtxt(input_path, delimiter=',', dtype=str, skiprows=1)
+all_data = []
+lines = []
+with open(input_path, 'rt', encoding=encoding) as f:
+    for line in f:
+        try:
+            lines.append(line.rstrip())
+        except Exception:
+            pass
 
-first_name_col = 3
-last_name_col = 4
-time_col = 5
+headers = lines[1].split(',')
+for line in lines[2:]:
+    all_data.append(line.split(','))
+num_cols = len(headers)
+
+time_col = -1
+first_name_col = -1
+last_name_col = -1
+club_col = -1
+
+for col_num,col in enumerate(headers):
+    col_name = col.lower().strip()
+    if col_name == 'chip time':
+        time_col = col_num
+    elif col_name == 'name':
+        first_name_col = col_num
+    elif col_name == 'first name':
+        first_name_col = col_num
+    elif col_name == 'last name':
+        last_name_col = col_num
+    elif col_name == 'club':
+        club_col = col_num
+
+print('Headers: ', headers)
+print(club_col)
+print(time_col)
+print(first_name_col)
+print(last_name_col)
 
 with open(output_path, 'wt') as f:
-    for row in all_data[1:,:]:
-        if len(row) < club_col + 1:
+    for row in all_data:
+        if len(row) != num_cols:
             continue
         if row[club_col].lower().startswith('altrincham') and row[time_col]:
-            name = f'{row[first_name_col]} {row[last_name_col]}'
+            if last_name_col < 0:
+                name = row[first_name_col]
+            else:
+                name = f'{row[first_name_col]} {row[last_name_col]}'
             
             #Deal with custom overrides
             if name == 'Andy Pickford':
