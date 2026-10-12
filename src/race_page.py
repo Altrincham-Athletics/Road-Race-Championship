@@ -101,7 +101,7 @@ class RacePage:
 
         with race.summary_page.open('wt') as file_id:
             hp.html_header(f'Combined best {race_str}', '../css/styles.css', file_id)
-            hp.html_h(f'Combined best {race_str}, June 2025 - May 2026', 1, file=file_id)
+            hp.html_h(f'Combined best {race_str}, June 2026 - May 2027', 1, file=file_id)
             print_athlete_list(race.athletes, file_id)
             hp.html_p(hp.html_link('<br><br>Home', Path('../index.html')), file=file_id)
             hp.html_footer(file_id, '../scripts/filters.js')
